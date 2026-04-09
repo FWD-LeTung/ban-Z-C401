@@ -4,12 +4,12 @@
 
 ## Thành viên
 
-| Họ và tên | MSSV |
-|-----------|------|
-| Lê Văn Tùng | 2A202600111 |
-| Nguyễn Đức Sĩ | 2A202600152 |
-| Lê Thành Thưởng | 2A202600106 |
-| Đinh Thái Tuấn | 2A202600360 |
+| Họ và tên | MSSV | Phân công |
+|-----------|------|-----------|
+| Lê Văn Tùng | 2A202600111 | Search Tools (YouTube, Reddit, Showroom) |
+| Nguyễn Đức Sĩ | 2A202600152 | Xây dựng Database & RAG |
+| Lê Thành Thưởng | 2A202600106 | Xây dựng Database & RAG |
+| Đinh Thái Tuấn | 2A202600360 | UI (Chainlit) & Eval Metrics |
 
 ## Giới thiệu
 
