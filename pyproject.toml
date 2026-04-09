@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "chainlit>=2.5",
     "chromadb>=1.5.7",
     "langchain>=1.2.15",
     "langchain-community>=0.4.1",
