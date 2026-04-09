@@ -1,5 +1,6 @@
 import requests
 import os
+from langchain_core.tools import tool
 # Khuyến nghị dùng dotenv để bảo mật API key, không hardcode
 from dotenv import load_dotenv
 load_dotenv()
@@ -86,3 +87,40 @@ def search_vinfast_showrooms(location: str) -> str:
         formatted += f"  Nguồn (URL): {item.get('url')}\n\n"
         
     return formatted
+
+@tool
+def tool_fallback_brave_search(car_model: str) -> str:
+    """
+    CHỈ SỬ DỤNG LÀM BIỆN PHÁP DỰ PHÒNG (FALLBACK) KHI TÌM KIẾM GIÁ XE HOẶC KHUYẾN MÃI.
+    Dùng khi khách hàng hỏi giá nhưng hệ thống nội bộ không có, hoặc khách muốn tham khảo giá/khuyến mãi thực tế từ đại lý.
+    """
+    api_key = os.getenv("BRAVE_API_KEY")
+    if not api_key:
+        return "Lỗi: Chưa cấu hình BRAVE_API_KEY trong file .env"
+
+    url = "https://api.search.brave.com/res/v1/web/search"
+    headers = {
+        "Accept": "application/json",
+        "Accept-Encoding": "gzip",
+        "X-Subscription-Token": api_key
+    }
+    
+    search_query = f"giá xe {car_model} khuyến mãi site:vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33"
+    params = {"q": search_query, "count": 3}
+    
+    try:
+        response = requests.get(url, headers=headers, params=params)
+        response.raise_for_status()
+        data = response.json()
+        
+        results = data.get("web", {}).get("results", [])
+        if not results:
+            return f"Không tìm thấy thông tin giá cho {car_model} trên website đại lý VinFast Hà Nội 5S."
+            
+        formatted_results = f"Kết quả tham khảo giá và khuyến mãi {car_model} từ đại lý:\n"
+        for item in results:
+            formatted_results += f"- Tiêu đề: {item.get('title')}\n  Mô tả: {item.get('description')}\n  Nguồn: {item.get('url')}\n\n"
+        return formatted_results
+        
+    except Exception as e:
+        return f"Lỗi khi gọi API tìm kiếm giá đại lý: {str(e)}"

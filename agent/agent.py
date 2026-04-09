@@ -15,8 +15,9 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # --- BƯỚC 1: IMPORT HÀM TÌM KIẾM TỪ FILE TOOLS ---
 # Giả sử bạn đã lưu code ở câu trước vào agent/tools/search_tools.py
-from tools.search_tools import search_youtube_reviews, search_reddit_comments, search_vinfast_showrooms
+from tools.search_tools import search_youtube_reviews, search_reddit_comments, search_vinfast_showrooms, tool_fallback_brave_search
 from tools.RAG_tools import tool_rag_search_specific, tool_filter_car_by_price, tool_get_full_info
+
 # Bọc @tool để LangChain tự sinh JSON schema cho Qwen
 @tool
 def tool_search_youtube_reviews(car_model: str) -> str:
@@ -46,7 +47,7 @@ def tool_search_vinfast_showrooms(location: str) -> str:
     """
     return search_vinfast_showrooms(location)
 # Danh sách công cụ cấp cho Agent
-tools = [tool_search_youtube_reviews, tool_search_reddit_comments, tool_search_vinfast_showrooms, tool_rag_search_specific,tool_filter_car_by_price, tool_get_full_info]
+tools = [tool_search_youtube_reviews, tool_search_reddit_comments, tool_search_vinfast_showrooms,tool_fallback_brave_search, tool_rag_search_specific,tool_filter_car_by_price, tool_get_full_info]
 
 QWEN_API_KEY = os.getenv("QWEN_API_KEY")
 llm = ChatOpenAI(
@@ -98,7 +99,8 @@ SYSTEM_PROMPT = SystemMessage(content=(
     
     "2. NHÓM TÌM ĐỊA ĐIỂM:\n"
     "- tool_search_vinfast_showrooms: Dùng khi khách muốn tìm 'địa chỉ', 'showroom', 'đại lý', 'mua xe ở đâu', 'hotline'.\n\n"
-    
+    "4. NHÓM CÔNG CỤ DỰ PHÒNG (FALLBACK):\n"
+    "- tool_fallback_brave_search: DÙNG ĐẦU TIÊN NẾU KHÁCH HỎI GIÁ hoặc KHUYẾN MÃI nhưng bạn không có sẵn dữ liệu, hoặc muốn kiểm tra giá thực tế từ đại lý.\n"
     "3. NHÓM TÌM KIẾM REVIEW THỰC TẾ (Chỉ dùng khi được yêu cầu rõ ràng):\n"
     "- tool_search_youtube_reviews: CHỈ DÙNG khi khách chủ động nhắc đến từ khóa 'video', 'youtube', 'clip', 'reviewer đánh giá'. KHÔNG tự ý gọi nếu khách chỉ hỏi thông tin xe.\n"
     "- tool_search_reddit_comments: CHỈ DÙNG khi khách muốn biết 'trải nghiệm thực tế', 'lỗi thường gặp', 'cảm nhận của người dùng khác', 'cộng đồng mạng nói gì'.\n\n"
