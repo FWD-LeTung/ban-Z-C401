@@ -1,0 +1,128 @@
+[
+  {
+    "car_model": "VF 9",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Eco (pin CATL) - 1 tỷ 499 triệu",
+      "listed_price": "1 tỷ 499 triệu"
+    },
+    "vehicle_type": "SUV",
+    "origin": "Sản xuất trong nước",
+    "segment": "SUV cỡ E",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Môtơ điện",
+          "Công suất môtơ điện (mã lực)": "402",
+          "Mô-men xoắn môtơ điện (Nm)": "620",
+          "Hộp số": "1 cấp",
+          "Hệ dẫn động": "AWD",
+          "Loại nhiên liệu": "Điện",
+          "Tầm hoạt động (km)": "438",
+          "Thời gian sạc nhanh DC từ 10-80% (phút)": "Dưới 26 phút (10-70%)",
+          "Loại pin": "CATL",
+          "Dung lượng pin (kWh)": "92"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "6 hoặc 7",
+          "Kích thước dài x rộng x cao (mm)": "5.118 x 2.254 x 1.696",
+          "Chiều dài cơ sở (mm)": "3,150",
+          "Khoảng sáng gầm (mm)": "197"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "LED",
+          "Đèn chiếu gần": "LED",
+          "Đèn ban ngày": "LED",
+          "Đèn hậu": "LED",
+          "Đèn pha tự động bật/tắt": "Có",
+          "Đèn pha tự động điều chỉnh góc chiếu": "Có",
+          "Đèn phanh trên cao": "Có",
+          "Sấy gương chiếu hậu": "Có",
+          "Ăng ten vây cá": "Có",
+          "Cốp đóng/mở điện": "Có",
+          "Mở cốp rảnh tay": "Có",
+          "Cửa hít": "Có"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc vô-lăng": "Da nhân tạo",
+          "Điều chỉnh vô-lăng": "Chỉnh cơ 4 hướng",
+          "Sưởi vô-lăng": "Có",
+          "Nhớ vị trí vô-lăng": "Không",
+          "Chất liệu bọc ghế": "Da tổng hợp",
+          "Điều chỉnh ghế lái": "Chỉnh điện 8 hướng",
+          "Nhớ vị trí ghế lái": "Không",
+          "Điều chỉnh ghế phụ": "Chỉnh điện 6 hướng",
+          "Điều hoà": "Tự động 2 vùng",
+          "Màn hình giải trí": "Cảm ứng 15,6 inch",
+          "Hệ thống loa": "13 loa và 1 loa trầm",
+          "Thông gió (làm mát) ghế lái": "Không",
+          "Thông gió (làm mát) ghế phụ": "Không",
+          "Sưởi ấm ghế lái": "Có",
+          "Sưởi ấm ghế phụ": "Có",
+          "Chìa khoá thông minh": "Có",
+          "Cửa gió hàng ghế sau": "Có",
+          "Kết nối Apple CarPlay": "Có",
+          "Kết nối Android Auto": "Có",
+          "Ra lệnh giọng nói": "Có",
+          "Đàm thoại rảnh tay": "Có",
+          "Lọc không khí": "Có",
+          "Kiểm soát chất lượng không khí": "Có",
+          "Trợ lý ảo": "Có",
+          "Phát WiFi": "Có",
+          "Sạc không dây": "Có",
+          "Ổ điện xoay chiều 230V": "Có",
+          "Cửa sổ trời toàn cảnh": "Không"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Trợ lực vô-lăng": "Điện",
+          "Nhiều chế độ lái": "Có",
+          "Phanh tay điện tử": "Có",
+          "Giữ phanh tự động": "Có",
+          "Hỗ trợ đỗ xe chủ động": "Có",
+          "Hỗ trợ đọc biển báo, tín hiệu giao thông": "Có",
+          "Quản lý xe qua app điện thoại": "Có"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Số túi khí": "11",
+          "Kiểm soát hành trình thích ứng (Adaptive Cruise Control)": "Có",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Cảnh báo điểm mù": "Có",
+          "Cảm biến lùi": "Có",
+          "Camera lùi": "Có",
+          "Cảnh báo chệch làn đường": "Có",
+          "Hỗ trợ giữ làn": "Có",
+          "Tự động chuyển làn": "Có",
+          "Hỗ trợ phanh tự động giảm thiểu va chạm": "Có",
+          "Cảnh báo phương tiện cắt ngang khi lùi": "Không",
+          "Cảnh báo tài xế buồn ngủ": "Có",
+          "Móc ghế an toàn cho trẻ em Isofix": "Có",
+          "Cảm biến áp suất lốp": "Có",
+          "Cảm biến khoảng cách phía trước": "Có",
+          "Cảnh báo tiền va chạm": "Có",
+          "Hỗ trợ chuyển làn": "Có",
+          "Cảnh báo giao thông khi mở cửa": "Có",
+          "Nhận diện biển báo giao thông": "Có"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+{
+  "input_dir": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast",
+  "output_dir": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs",
+  "total_sources": 18,
+  "total_jobs": 18,
+  "success": 18,
+  "failed": 0,
+  "items": [
+    {
+      "name": "VinFast EC Van 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_ec_van_2026.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/ec-van-2026-321",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-ec-van-2026-tieu-chuan-1181",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_ec_van_2026.json"
+    },
+    {
+      "name": "VinFast Fadil 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_fadil_2026.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/fadil-2026-161",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-fadil-2026-tieu-chuan-330",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_fadil_2026.json"
+    },
+    {
+      "name": "VinFast Herio Green 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_herio_green_2026.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/herio-green-2026-306",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-herio-green-2026-tieu-chuan-1089",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_herio_green_2026.json"
+    },
+    {
+      "name": "VinFast Limo Green 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_limo_green_2026.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/limo-green-2026-304",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-limo-green-2026-tieu-chuan-gom-pin-1079",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_limo_green_2026.json"
+    },
+    {
+      "name": "VinFast Lux A2.0 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_lux_a2_0_2026.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/lux-a2-0-2026-162",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-lux-a2-0-2026-tieu-chuan-333",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_lux_a2_0_2026.json"
+    },
+    {
+      "name": "VinFast Lux SA2.0 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_lux_sa2_0_2026.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/lux-sa2-0-2026-163",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-lux-sa2-0-2026-tieu-chuan-336",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_lux_sa2_0_2026.json"
+    },
+    {
+      "name": "VinFast Nerio Green 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_nerio_green_2026.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/nerio-green-2026-300",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-nerio-green-2026-tieu-chuan-1069",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_nerio_green_2026.json"
+    },
+    {
+      "name": "VinFast President 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_president_2026.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/president-2026-176",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-president-2026-president-339",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_president_2026.json"
+    },
+    {
+      "name": "VinFast VF 3 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_vf_3_2026.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/vf-3-2026-264",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-vf-3-2026-kem-pin-865",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_vf_3_2026.json"
+    },
+    {
+      "name": "VinFast VF 5 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_vf_5_2026.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/vf-5-2026-218",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-vf-5-2026-plus-661",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_vf_5_2026.json"
+    },
+    {
+      "name": "VinFast VF 5 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_vf_5_2026__2.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/vf-5-2026-218",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-vf-5-2026-plus-661",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_vf_5_2026__2.json"
+    },
+    {
+      "name": "VinFast VF 6 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_vf_6_2026.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/vf-6-2026-248",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-vf-6-2026-eco-753",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_vf_6_2026.json"
+    },
+    {
+      "name": "VinFast VF 7 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_vf_7_2026.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/vf-7-2026-253",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-vf-7-2026-eco-781",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_vf_7_2026.json"
+    },
+    {
+      "name": "VinFast VF 8 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_vf_8_2026.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/vf-8-2026-208",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-vf-8-2026-vf-8-eco-pin-catl-903",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_vf_8_2026.json"
+    },
+    {
+      "name": "VinFast VF 8 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_vf_8_2026__2.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/vf-8-2026-208",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-vf-8-2026-vf-8-eco-pin-catl-903",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_vf_8_2026__2.json"
+    },
+    {
+      "name": "VinFast VF 9 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_vf_9_2026.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/vf-9-2026-225",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-vf-9-2026-eco-pin-catl-650",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_vf_9_2026.json"
+    },
+    {
+      "name": "VinFast VF e34 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_vf_e34_2026.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/vf-e34-2026-177",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-vf-e34-2026-tieu-chuan-340",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_vf_e34_2026.json"
+    },
+    {
+      "name": "VinFast VF MPV 7 2026",
+      "source_file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast\\vinfast_vf_mpv_7_2026.json",
+      "source_url": "https://vnexpress.net/oto-xe-may/v-car/dong-xe/vf-mpv-7-2026-322",
+      "spec_url": "https://vnexpress.net/oto-xe-may/v-car/phien-ban-xe/vinfast-vf-mpv-7-2026-tieu-chuan-gom-pin-1182",
+      "status": "ok",
+      "file": "G:\\code_file\\python\\assignments\\lab5\\BanZ_C401_Day05\\data\\raw\\vinfast_specs\\vinfast_vf_mpv_7_2026.json"
+    }
+  ]
+}

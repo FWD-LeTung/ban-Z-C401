@@ -1,0 +1,150 @@
+[
+  {
+    "car_model": "President",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "President - 4 tỷ 600 triệu",
+      "listed_price": "4 tỷ 600 triệu"
+    },
+    "vehicle_type": "SUV",
+    "origin": "Lắp ráp",
+    "segment": "",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Công suất máy xăng/dầu (Mã lực)/vòng tua (vòng/phút)": "420Hp/5600rpm",
+          "Dung tích (cc)": "6.200",
+          "Hệ dẫn động": "4 bánh toàn thời gian",
+          "Hộp số": "Tự động 8 cấp",
+          "Kiểu động cơ": "Xăng, V8",
+          "Loại nhiên liệu": "Xăng",
+          "Mô-men xoắn máy xăng/dầu (Nm)/vòng tua (vòng/phút)": "624Nm/4100rpm"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Chiều dài cơ sở (mm)": "3.133",
+          "Dung tích bình nhiên liệu (lít)": "85",
+          "Khoảng sáng gầm (mm)": "183",
+          "Kích thước dài x rộng x cao (mm)": "5146 x 1987 x1760",
+          "Lốp, la-zăng": "275/40 R20, 315/35 R20",
+          "Số chỗ": "7",
+          "Trọng lượng bản thân (kg)": "2.424",
+          "Trọng lượng toàn tải (kg)": "3.074"
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Phanh sau": "Đĩa tản nhiệt",
+          "Phanh trước": "Đĩa tản nhiệt",
+          "Treo sau": "Độc lập, 5 liên kết với đòn dẫn hướng và thanh ổn định ngang, giảm chấn khí nén",
+          "Treo trước": "Độc lập, tay đòn dưới kép, giá đỡ bằng nhôm"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Ăng ten vây cá": "Có",
+          "Cốp đóng/mở điện": "Có",
+          "Gạt mưa tự động": "Có",
+          "Gương chiếu hậu": "chỉnh điện, gập điện, báo rẽ, tự điều chỉnh khi lùi",
+          "Mở cốp rảnh tay": "Có",
+          "Sấy gương chiếu hậu": "Có",
+          "Đèn ban ngày": "LED",
+          "Đèn chiếu gần": "LED",
+          "Đèn chiếu xa": "LED",
+          "Đèn hậu": "LED",
+          "Đèn pha tự động bật/tắt": "Có",
+          "Đèn pha tự động xa/gần": "Có",
+          "Đèn pha tự động điều chỉnh góc chiếu": "Không",
+          "Đèn phanh trên cao": "Có"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Bảng đồng hồ tài xế": "Dạng kết hợp, 7 inch",
+          "Chất liệu bọc ghế": "Da Nappa Thêu trang trí",
+          "Chất liệu bọc vô-lăng": "Da",
+          "Chìa khoá thông minh": "Có",
+          "Cửa gió hàng ghế sau": "Có",
+          "Cửa kính một chạm": "Có ( tất cả)",
+          "Cửa sổ trời": "Có",
+          "Cửa sổ trời toàn cảnh": "Không",
+          "Gương chiếu hậu trong xe chống chói tự động": "Có",
+          "Hàng ghế thứ ba": "Gập cơ",
+          "Hàng ghế thứ hai": "Gập cơ",
+          "Hệ thống loa": "13",
+          "Kết nối Android Auto": "Không",
+          "Kết nối Apple CarPlay": "Không",
+          "Kết nối AUX": "Không",
+          "Kết nối Bluetooth": "Có",
+          "Kết nối USB": "Có",
+          "Khởi động nút bấm": "Có",
+          "Màn hình giải trí": "Cảm ứng 12.3 inch",
+          "Massage ghế lái": "Có",
+          "Massage ghế phụ": "Có",
+          "Nhớ vị trí ghế lái": "Không",
+          "Nút bấm tích hợp trên vô-lăng": "Có",
+          "Phát WiFi": "Có",
+          "Ra lệnh giọng nói": "Không",
+          "Radio AM/FM": "Có",
+          "Sạc không dây": "Có",
+          "Sưởi ấm ghế lái": "Có",
+          "Sưởi ấm ghế phụ": "Có",
+          "Thông gió (làm mát) ghế lái": "Có",
+          "Thông gió (làm mát) ghế phụ": "Có",
+          "Tựa tay hàng ghế sau": "Có",
+          "Tựa tay hàng ghế trước": "Có",
+          "Đàm thoại rảnh tay": "Có",
+          "Điều chỉnh ghế lái": "Có ( 12 hướng, chỉnh tựa đầu 2 hướng)",
+          "Điều chỉnh ghế phụ": "Có ( 12 hướng, chỉnh tựa đầu 2 hướng)",
+          "Điều hoà": "Tự động"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Giữ phanh tự động": "Có",
+          "Hiển thị thông tin trên kính lái (HUD)": "Có",
+          "Hỗ trợ đánh lái khi vào cua": "Không",
+          "Kiểm soát gia tốc": "Không",
+          "Lẫy chuyển số trên vô-lăng": "Không",
+          "Ngắt động cơ tạm thời (Idling Stop/Start-Stop)": "Không",
+          "Nhiều chế độ lái": "Không",
+          "Phanh tay điện tử": "Có",
+          "Trợ lực vô-lăng": "Trợ lực thủy lực, điều khiển điện"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Cảm biến lùi": "Có",
+          "Camera 360": "Có",
+          "Camera lùi": "Có",
+          "Camera quan sát làn đường (LaneWatch)": "Không",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Cảnh báo chệch làn đường": "Có",
+          "Cảnh báo phương tiện cắt ngang khi lùi": "Không",
+          "Cảnh báo tài xế buồn ngủ": "Không",
+          "Cảnh báo điểm mù": "Có",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ giữ làn": "Không",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Hỗ trợ phanh tự động giảm thiểu va chạm": "Không",
+          "Hỗ trợ đổ đèo": "Có",
+          "Kiểm soát hành trình (Cruise Control)": "Có",
+          "Kiểm soát hành trình thích ứng (Adaptive Cruise Control)": "Không",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Móc ghế an toàn cho trẻ em Isofix": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Số túi khí": "6"
+        }
+      }
+    ]
+  }
+]

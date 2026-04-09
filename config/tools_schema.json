@@ -1,0 +1,40 @@
+[
+  {
+    "type": "function",
+    "function": {
+      "name": "search_youtube_reviews",
+      "description": "Tìm kiếm video review xe trên YouTube. Trả về tiêu đề, mô tả và Nguồn (URL). Phải trích dẫn URL trong câu trả lời.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "car_model": {
+            "type": "string",
+            "description": "Tên dòng xe (vd: VinFast VF8)"
+          }
+        },
+        "required": ["car_model"]
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "search_reddit_comments",
+      "description": "Tìm kiếm bình luận, thảo luận thực tế của người dùng trên Reddit về một khía cạnh cụ thể của xe. Trả về nội dung và Nguồn (URL). Phải trích dẫn URL trong câu trả lời.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "car_model": {
+            "type": "string",
+            "description": "Tên dòng xe (vd: VinFast VF5)"
+          },
+          "specific_query": {
+            "type": "string",
+            "description": "Điều cụ thể người dùng muốn biết (ví dụ: 'lỗi pin', 'kinh nghiệm sạc', 'cảm giác lái', 'so sánh với VF6')"
+          }
+        },
+        "required": ["car_model", "specific_query"]
+      }
+    }
+  }
+]

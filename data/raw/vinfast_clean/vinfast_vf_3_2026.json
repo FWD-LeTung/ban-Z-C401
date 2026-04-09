@@ -1,0 +1,121 @@
+[
+  {
+    "car_model": "VF 3",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Kèm pin - 302 triệu",
+      "listed_price": "302 triệu"
+    },
+    "vehicle_type": "Crossover",
+    "origin": "Sản xuất trong nước",
+    "segment": "xe siêu nhỏ",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Điện",
+          "Công suất môtơ điện (mã lực)": "43",
+          "Mô-men xoắn môtơ điện (Nm)": "110",
+          "Hộp số": "1 cấp",
+          "Hệ dẫn động": "Cầu sau (RWD)",
+          "Thời gian tăng tốc từ 0-100 km/h (giây)": "5,3",
+          "Loại pin": "LFP",
+          "Dung lượng pin (kWh)": "18,64 kWh",
+          "Bộ sạc tiêu chuẩn theo xe": "Chưa công bố",
+          "Thời gian nạp pin bình thường": "5 giờ (10-70%)",
+          "Thời gian sạc nhanh DC 10-70% (phút)": "36 phút",
+          "Tầm hoạt động (km)": "210",
+          "Tốc độ tối đa (km/h)": "100",
+          "Hệ thống phanh tái sinh": "Có"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "4",
+          "Kích thước dài x rộng x cao (mm)": "3.190 x 1.679 x 1.622",
+          "Chiều dài cơ sở (mm)": "2.075",
+          "Khoảng sáng gầm (mm)": "191",
+          "Lốp, la-zăng": "175/75 R16"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "Halogen",
+          "Đèn chiếu gần": "Halogen",
+          "Đèn ban ngày": "Halogen",
+          "Đèn pha tự động bật/tắt": "Không",
+          "Đèn hậu": "Halogen",
+          "Đèn phanh trên cao": "Không",
+          "Gạt mưa tự động": "Không",
+          "Ăng ten vây cá": "Có",
+          "Tùy chọn sơn hai màu": "Có",
+          "Gương hậu ngoài tự động hạ thấp khi lùi": "Không",
+          "Đèn sương mù": "LED",
+          "Cánh gió sau": "Không",
+          "Khe gió nắp ca pô": "Không"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc ghế": "Nỉ",
+          "Điều chỉnh ghế lái": "Cơ",
+          "Điều chỉnh ghế phụ": "Cơ",
+          "Nút bấm tích hợp trên vô-lăng": "Không",
+          "Chất liệu bọc vô-lăng": "Nhựa",
+          "Chìa khoá thông minh": "Có",
+          "Khởi động nút bấm": "Có",
+          "Điều hoà": "Chỉnh cơ, 1 vùng",
+          "Cửa gió hàng ghế sau": "Không",
+          "Cửa sổ trời": "Không",
+          "Gương chiếu hậu trong xe chống chói tự động": "Không",
+          "Tựa tay hàng ghế trước": "Không",
+          "Tựa tay hàng ghế sau": "Không",
+          "Màn hình giải trí": "10 inch",
+          "Kết nối Apple CarPlay": "Có",
+          "Kết nối Android Auto": "Có",
+          "Ra lệnh giọng nói": "Không",
+          "Đàm thoại rảnh tay": "Không",
+          "Phát WiFi": "Không",
+          "Kết nối AUX": "Không",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Sạc không dây": "Không"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Chế độ lái": "Eco/Normal",
+          "Trợ lực vô-lăng": "Điện",
+          "Phanh tay điện tử": "Không",
+          "Giữ phanh tự động": "Không",
+          "Quản lý xe qua app điện thoại": "Có"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Kiểm soát hành trình (Cruise Control)": "Không",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Camera lùi": "Có",
+          "Camera 360": "Không",
+          "Móc ghế an toàn cho trẻ em Isofix": "Không",
+          "Cảm biến áp suất lốp": "Không",
+          "Hệ thống cảm biến trước/sau": "Không",
+          "Phanh tự động khẩn cấp sau va chạm": "Không",
+          "Cảm biến lùi": "Có",
+          "Số túi khí": "Ghế lái"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "car_model": "EC Van",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Tiêu chuẩn - 285 triệu",
+      "listed_price": "285 triệu"
+    },
+    "vehicle_type": "Van",
+    "origin": "Lắp ráp",
+    "segment": "",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Công suất môtơ điện (mã lực)": "32",
+          "Mô-men xoắn môtơ điện (Nm)": "110",
+          "Loại pin": "",
+          "Dung lượng pin (kWh)": "18,3",
+          "Tầm hoạt động (km)": "175",
+          "Thời gian sạc nhanh DC 10-70% (phút)": "42",
+          "Công suất sạc nhanh DC tối đa": "24,2"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "2",
+          "Kích thước dài x rộng x cao (mm)": "3.767 x 1.680 x 1.790",
+          "Chiều dài cơ sở (mm)": "2.520",
+          "Khoảng sáng gầm (mm)": "165",
+          "Bán kính vòng quay (mm)": "5.100",
+          "Dung tích khoang hành lý (lít)": "2.600",
+          "Tải trọng (kg)": "650"
+        }
+      }
+    ]
+  }
+]

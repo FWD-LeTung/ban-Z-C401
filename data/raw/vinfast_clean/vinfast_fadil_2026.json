@@ -1,0 +1,152 @@
+[
+  {
+    "car_model": "Fadil",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Tiêu chuẩn - 425 triệu",
+      "listed_price": "425 triệu"
+    },
+    "vehicle_type": "Hatchback",
+    "origin": "Lắp ráp",
+    "segment": "xe cỡ A",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Xăng 1.4, 4 xi lanh thẳng hàng",
+          "Dung tích (cc)": "1.399",
+          "Công suất máy xăng/dầu (Mã lực)/vòng tua (vòng/phút)": "98/6200",
+          "Mô-men xoắn máy xăng/dầu (Nm)/vòng tua (vòng/phút)": "128/4400",
+          "Hộp số": "Tự động vô cấp - CVT",
+          "Hệ dẫn động": "Cầu trước - FWD",
+          "Loại nhiên liệu": "Xăng",
+          "Mức tiêu thụ nhiên liệu đường hỗn hợp (lít/100 km)": "5,85"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "5",
+          "Kích thước dài x rộng x cao (mm)": "3676x1632x1530",
+          "Chiều dài cơ sở (mm)": "2.385",
+          "Khoảng sáng gầm (mm)": "150",
+          "Bán kính vòng quay (mm)": "4.800",
+          "Dung tích khoang hành lý (lít)": "205",
+          "Dung tích bình nhiên liệu (lít)": "32",
+          "Trọng lượng bản thân (kg)": "993",
+          "Trọng lượng toàn tải (kg)": "1.379",
+          "Lốp, la-zăng": "Mà đúc hợp kim nhóm 15\""
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Treo trước": "Kiểu MacPherson",
+          "Treo sau": "Phụ thuộc, kiểu dầm xoắn",
+          "Phanh trước": "Đĩa",
+          "Phanh sau": "Tang trống"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "Halogen",
+          "Đèn chiếu gần": "Halogen",
+          "Đèn ban ngày": "Halogen",
+          "Đèn pha tự động bật/tắt": "Không",
+          "Đèn pha tự động xa/gần": "Không",
+          "Đèn pha tự động điều chỉnh góc chiếu": "Không",
+          "Đèn hậu": "Halogen",
+          "Đèn phanh trên cao": "Có",
+          "Gương chiếu hậu": "Chỉnh điện/Gập điện",
+          "Sấy gương chiếu hậu": "Có",
+          "Gạt mưa tự động": "Không",
+          "Ăng ten vây cá": "Không",
+          "Cốp đóng/mở điện": "Không",
+          "Mở cốp rảnh tay": "Không"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc ghế": "Da tổng hợp",
+          "Điều chỉnh ghế lái": "Không",
+          "Nhớ vị trí ghế lái": "Không",
+          "Massage ghế lái": "Không",
+          "Điều chỉnh ghế phụ": "Không",
+          "Massage ghế phụ": "Không",
+          "Thông gió (làm mát) ghế lái": "Không",
+          "Thông gió (làm mát) ghế phụ": "Không",
+          "Sưởi ấm ghế lái": "Không",
+          "Sưởi ấm ghế phụ": "Không",
+          "Bảng đồng hồ tài xế": "Analog",
+          "Nút bấm tích hợp trên vô-lăng": "Có",
+          "Hàng ghế thứ hai": "60/40",
+          "Hàng ghế thứ ba": "Không",
+          "Chìa khoá thông minh": "Không",
+          "Khởi động nút bấm": "Không",
+          "Điều hoà": "Có",
+          "Cửa gió hàng ghế sau": "Không",
+          "Cửa kính một chạm": "Không",
+          "Cửa sổ trời": "Không",
+          "Cửa sổ trời toàn cảnh": "Không",
+          "Gương chiếu hậu trong xe chống chói tự động": "Không",
+          "Tựa tay hàng ghế trước": "Không",
+          "Tựa tay hàng ghế sau": "Không",
+          "Màn hình giải trí": "Không",
+          "Kết nối Apple CarPlay": "Không",
+          "Kết nối Android Auto": "Không",
+          "Ra lệnh giọng nói": "Không",
+          "Đàm thoại rảnh tay": "Không",
+          "Hệ thống loa": "6",
+          "Phát WiFi": "Không",
+          "Kết nối AUX": "Không",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Sạc không dây": "Không"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Trợ lực vô-lăng": "Trợ lực điện",
+          "Nhiều chế độ lái": "Không",
+          "Lẫy chuyển số trên vô-lăng": "Không",
+          "Ngắt động cơ tạm thời (Idling Stop/Start-Stop)": "Không",
+          "Hỗ trợ đánh lái khi vào cua": "Không",
+          "Kiểm soát gia tốc": "Không",
+          "Phanh tay điện tử": "Không",
+          "Giữ phanh tự động": "Không",
+          "Hiển thị thông tin trên kính lái (HUD)": "Không"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Kiểm soát hành trình (Cruise Control)": "Không",
+          "Kiểm soát hành trình thích ứng (Adaptive Cruise Control)": "Không",
+          "Số túi khí": "2",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Không",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Hỗ trợ đổ đèo": "Không",
+          "Cảnh báo điểm mù": "Không",
+          "Cảm biến lùi": "Không",
+          "Camera lùi": "Không",
+          "Camera 360": "Không",
+          "Camera quan sát làn đường (LaneWatch)": "Không",
+          "Cảnh báo chệch làn đường": "Không",
+          "Hỗ trợ giữ làn": "Không",
+          "Hỗ trợ phanh tự động giảm thiểu va chạm": "Không",
+          "Cảnh báo phương tiện cắt ngang khi lùi": "Không",
+          "Cảnh báo tài xế buồn ngủ": "Không",
+          "Móc ghế an toàn cho trẻ em Isofix": "Có"
+        }
+      }
+    ]
+  }
+]

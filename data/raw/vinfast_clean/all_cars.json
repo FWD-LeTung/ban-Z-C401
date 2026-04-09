@@ -1,0 +1,2310 @@
+[
+  {
+    "car_model": "EC Van",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Tiêu chuẩn - 285 triệu",
+      "listed_price": "285 triệu"
+    },
+    "vehicle_type": "Van",
+    "origin": "Lắp ráp",
+    "segment": "",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Công suất môtơ điện (mã lực)": "32",
+          "Mô-men xoắn môtơ điện (Nm)": "110",
+          "Loại pin": "",
+          "Dung lượng pin (kWh)": "18,3",
+          "Tầm hoạt động (km)": "175",
+          "Thời gian sạc nhanh DC 10-70% (phút)": "42",
+          "Công suất sạc nhanh DC tối đa": "24,2"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "2",
+          "Kích thước dài x rộng x cao (mm)": "3.767 x 1.680 x 1.790",
+          "Chiều dài cơ sở (mm)": "2.520",
+          "Khoảng sáng gầm (mm)": "165",
+          "Bán kính vòng quay (mm)": "5.100",
+          "Dung tích khoang hành lý (lít)": "2.600",
+          "Tải trọng (kg)": "650"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "Fadil",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Tiêu chuẩn - 425 triệu",
+      "listed_price": "425 triệu"
+    },
+    "vehicle_type": "Hatchback",
+    "origin": "Lắp ráp",
+    "segment": "xe cỡ A",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Xăng 1.4, 4 xi lanh thẳng hàng",
+          "Dung tích (cc)": "1.399",
+          "Công suất máy xăng/dầu (Mã lực)/vòng tua (vòng/phút)": "98/6200",
+          "Mô-men xoắn máy xăng/dầu (Nm)/vòng tua (vòng/phút)": "128/4400",
+          "Hộp số": "Tự động vô cấp - CVT",
+          "Hệ dẫn động": "Cầu trước - FWD",
+          "Loại nhiên liệu": "Xăng",
+          "Mức tiêu thụ nhiên liệu đường hỗn hợp (lít/100 km)": "5,85"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "5",
+          "Kích thước dài x rộng x cao (mm)": "3676x1632x1530",
+          "Chiều dài cơ sở (mm)": "2.385",
+          "Khoảng sáng gầm (mm)": "150",
+          "Bán kính vòng quay (mm)": "4.800",
+          "Dung tích khoang hành lý (lít)": "205",
+          "Dung tích bình nhiên liệu (lít)": "32",
+          "Trọng lượng bản thân (kg)": "993",
+          "Trọng lượng toàn tải (kg)": "1.379",
+          "Lốp, la-zăng": "Mà đúc hợp kim nhóm 15\""
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Treo trước": "Kiểu MacPherson",
+          "Treo sau": "Phụ thuộc, kiểu dầm xoắn",
+          "Phanh trước": "Đĩa",
+          "Phanh sau": "Tang trống"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "Halogen",
+          "Đèn chiếu gần": "Halogen",
+          "Đèn ban ngày": "Halogen",
+          "Đèn pha tự động bật/tắt": "Không",
+          "Đèn pha tự động xa/gần": "Không",
+          "Đèn pha tự động điều chỉnh góc chiếu": "Không",
+          "Đèn hậu": "Halogen",
+          "Đèn phanh trên cao": "Có",
+          "Gương chiếu hậu": "Chỉnh điện/Gập điện",
+          "Sấy gương chiếu hậu": "Có",
+          "Gạt mưa tự động": "Không",
+          "Ăng ten vây cá": "Không",
+          "Cốp đóng/mở điện": "Không",
+          "Mở cốp rảnh tay": "Không"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc ghế": "Da tổng hợp",
+          "Điều chỉnh ghế lái": "Không",
+          "Nhớ vị trí ghế lái": "Không",
+          "Massage ghế lái": "Không",
+          "Điều chỉnh ghế phụ": "Không",
+          "Massage ghế phụ": "Không",
+          "Thông gió (làm mát) ghế lái": "Không",
+          "Thông gió (làm mát) ghế phụ": "Không",
+          "Sưởi ấm ghế lái": "Không",
+          "Sưởi ấm ghế phụ": "Không",
+          "Bảng đồng hồ tài xế": "Analog",
+          "Nút bấm tích hợp trên vô-lăng": "Có",
+          "Hàng ghế thứ hai": "60/40",
+          "Hàng ghế thứ ba": "Không",
+          "Chìa khoá thông minh": "Không",
+          "Khởi động nút bấm": "Không",
+          "Điều hoà": "Có",
+          "Cửa gió hàng ghế sau": "Không",
+          "Cửa kính một chạm": "Không",
+          "Cửa sổ trời": "Không",
+          "Cửa sổ trời toàn cảnh": "Không",
+          "Gương chiếu hậu trong xe chống chói tự động": "Không",
+          "Tựa tay hàng ghế trước": "Không",
+          "Tựa tay hàng ghế sau": "Không",
+          "Màn hình giải trí": "Không",
+          "Kết nối Apple CarPlay": "Không",
+          "Kết nối Android Auto": "Không",
+          "Ra lệnh giọng nói": "Không",
+          "Đàm thoại rảnh tay": "Không",
+          "Hệ thống loa": "6",
+          "Phát WiFi": "Không",
+          "Kết nối AUX": "Không",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Sạc không dây": "Không"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Trợ lực vô-lăng": "Trợ lực điện",
+          "Nhiều chế độ lái": "Không",
+          "Lẫy chuyển số trên vô-lăng": "Không",
+          "Ngắt động cơ tạm thời (Idling Stop/Start-Stop)": "Không",
+          "Hỗ trợ đánh lái khi vào cua": "Không",
+          "Kiểm soát gia tốc": "Không",
+          "Phanh tay điện tử": "Không",
+          "Giữ phanh tự động": "Không",
+          "Hiển thị thông tin trên kính lái (HUD)": "Không"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Kiểm soát hành trình (Cruise Control)": "Không",
+          "Kiểm soát hành trình thích ứng (Adaptive Cruise Control)": "Không",
+          "Số túi khí": "2",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Không",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Hỗ trợ đổ đèo": "Không",
+          "Cảnh báo điểm mù": "Không",
+          "Cảm biến lùi": "Không",
+          "Camera lùi": "Không",
+          "Camera 360": "Không",
+          "Camera quan sát làn đường (LaneWatch)": "Không",
+          "Cảnh báo chệch làn đường": "Không",
+          "Hỗ trợ giữ làn": "Không",
+          "Hỗ trợ phanh tự động giảm thiểu va chạm": "Không",
+          "Cảnh báo phương tiện cắt ngang khi lùi": "Không",
+          "Cảnh báo tài xế buồn ngủ": "Không",
+          "Móc ghế an toàn cho trẻ em Isofix": "Có"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "Herio Green",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Tiêu chuẩn - 499 triệu",
+      "listed_price": "499 triệu"
+    },
+    "vehicle_type": "Crossover",
+    "origin": "Sản xuất trong nước",
+    "segment": "",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Động cơ điện",
+          "Công suất máy xăng/dầu (Mã lực)/vòng tua (vòng/phút)": "134",
+          "Mô-men xoắn máy xăng/dầu (Nm)/vòng tua (vòng/phút)": "135",
+          "Hộp số": "Đơn cấp",
+          "Hệ dẫn động": "FWD/Cầu trước",
+          "Tầm hoạt động (km)": ">300Km (chuẩn NEDC)",
+          "Thời gian sạc nhanh DC từ 10-80% (phút)": "30 phút",
+          "Loại pin": "Lithium",
+          "Dung lượng pin (kWh)": "37,23 (kWh)"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "5",
+          "Kích thước dài x rộng x cao (mm)": "3.965 x 1.720 x 1.580",
+          "Chiều dài cơ sở (mm)": "2.513",
+          "Khoảng sáng gầm (mm)": "182",
+          "Dung tích khoang hành lý (lít)": "260",
+          "Trọng lượng bản thân (kg)": "1.360",
+          "Lốp, la-zăng": "Vành thép 16 inch"
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Treo trước": "Độc lập, MacPherson",
+          "Treo sau": "Dầm xoắn",
+          "Phanh trước": "Đĩa tang trống",
+          "Phanh sau": "Đĩa tang trống"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "Halogen",
+          "Đèn chiếu gần": "Halogen",
+          "Đèn ban ngày": "Led",
+          "Đèn pha tự động bật/tắt": "Không",
+          "Đèn pha tự động xa/gần": "Không",
+          "Đèn pha tự động điều chỉnh góc chiếu": "Không",
+          "Đèn hậu": "Halogen",
+          "Gương chiếu hậu": "Chỉnh điện, Tích hợp đèn báo rẽ",
+          "Sấy gương chiếu hậu": "Không",
+          "Gạt mưa tự động": "Không",
+          "Ăng ten vây cá": "Có"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc ghế": "Giả da",
+          "Điều chỉnh ghế lái": "Chỉnh cơ 6 hướng",
+          "Điều chỉnh ghế phụ": "Chỉnh cơ 4 hướng",
+          "Bảng đồng hồ tài xế": "7 inch",
+          "Nút bấm tích hợp trên vô-lăng": "Có",
+          "Chất liệu bọc vô-lăng": "Nhựa mềm không bọc. Chỉnh cơ 2 hướng",
+          "Hàng ghế thứ hai": "Gập tỉ lệ 60:40",
+          "Chìa khoá thông minh": "Không",
+          "Điều hoà": "Chỉnh cơ, 1 vùng",
+          "Cửa gió hàng ghế sau": "Không",
+          "Cửa kính một chạm": "Chỉ ở ghế lái",
+          "Tựa tay hàng ghế trước": "Không",
+          "Màn hình giải trí": "8 inch",
+          "Kết nối Apple CarPlay": "Không",
+          "Kết nối Android Auto": "Không",
+          "Ra lệnh giọng nói": "Có",
+          "Đàm thoại rảnh tay": "Có",
+          "Hệ thống loa": "2 loa",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Trợ lý ảo": "Có"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Trợ lực vô-lăng": "Điện",
+          "Nhiều chế độ lái": "Không",
+          "Lẫy chuyển số trên vô-lăng": "Không",
+          "Ngắt động cơ tạm thời (Idling Stop/Start-Stop)": "Không",
+          "Hỗ trợ đánh lái khi vào cua": "Không",
+          "Quản lý xe qua app điện thoại": "Có"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Số túi khí": "2 túi khí",
+          "Kiểm soát hành trình (Cruise Control)": "Không",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Hỗ trợ đổ đèo": "Không",
+          "Cảnh báo điểm mù": "Không",
+          "Cảm biến lùi": "Có",
+          "Camera lùi": "Không",
+          "Camera 360": "Không",
+          "Móc ghế an toàn cho trẻ em Isofix": "Có",
+          "Cảm biến áp suất lốp": "Không",
+          "Cảnh báo phương tiện cắt ngang khi lùi": "Không"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "Limo Green",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Tiêu chuẩn (gồm pin) - 749 triệu",
+      "listed_price": "749 triệu"
+    },
+    "vehicle_type": "MPV",
+    "origin": "Sản xuất trong nước",
+    "segment": "",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Môtơ điện đơn",
+          "Hệ dẫn động": "FWD",
+          "Công suất môtơ điện (mã lực)": "201",
+          "Mô-men xoắn môtơ điện (Nm)": "280",
+          "Loại pin": "LFP",
+          "Dung lượng pin (kWh)": "60,13",
+          "Tầm hoạt động (km)": "450",
+          "Bộ sạc tiêu chuẩn theo xe": "7,4 kW",
+          "Thời gian sạc nhanh DC 10-70% (phút)": "30",
+          "Công suất sạc nhanh DC tối đa": "80 kW"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "7",
+          "Kích thước dài x rộng x cao (mm)": "4.740 x 1.872 x 1.728",
+          "Chiều dài cơ sở (mm)": "2.840",
+          "Khoảng sáng gầm (mm)": "170",
+          "Lốp, la-zăng": "18 inch"
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Treo trước": "MacPherson",
+          "Treo sau": "Đa liên kết",
+          "Phanh trước": "Đĩa thông gió",
+          "Phanh sau": "Đĩa"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "LED",
+          "Đèn chiếu gần": "LED",
+          "Đèn ban ngày": "LED",
+          "Đèn pha tự động bật/tắt": "Không",
+          "Đèn hậu": "LED",
+          "Đèn phanh trên cao": "Có",
+          "Gương chiếu hậu": "Chỉnh điện",
+          "Gạt mưa tự động": "Không",
+          "Cốp đóng/mở điện": "Không"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc ghế": "Nỉ",
+          "Điều chỉnh ghế lái": "Cơ",
+          "Điều chỉnh ghế phụ": "Cơ",
+          "Bảng đồng hồ tài xế": "Không",
+          "Nút bấm tích hợp trên vô-lăng": "Không",
+          "Chất liệu bọc vô-lăng": "Nhựa tổng hợp",
+          "Hàng ghế thứ hai": "",
+          "Hàng ghế thứ ba": "",
+          "Điều hoà": "Tự động 1 vùng",
+          "Cửa gió hàng ghế sau": "Có",
+          "Màn hình giải trí": "Cảm ứng 10,1 inch",
+          "Hệ thống loa": "4 loa",
+          "Phát WiFi": "Có",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Gương hậu trong xe": "Chế độ ngày/đêm"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Chế độ lái": "Eco/Normal",
+          "Phanh tay điện tử": "Có",
+          "Giữ phanh tự động": "Có"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Chức năng chống lật (ROM)": "Có",
+          "Camera lùi": "Có"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "Lux A2.0",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Tiêu chuẩn - 1 tỷ 115 triệu",
+      "listed_price": "1 tỷ 115 triệu"
+    },
+    "vehicle_type": "Sedan",
+    "origin": "Lắp ráp",
+    "segment": "sedan cỡ E",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "I-4, DOHC, tăng áp, van biến thiên",
+          "Dung tích (cc)": "2.000",
+          "Công suất máy xăng/dầu (Mã lực)/vòng tua (vòng/phút)": "174/4500-6000",
+          "Mô-men xoắn máy xăng/dầu (Nm)/vòng tua (vòng/phút)": "300/1750-4000",
+          "Hộp số": "Tự động 8 cấp ZF",
+          "Hệ dẫn động": "Cầu sau (RWD)",
+          "Loại nhiên liệu": "Xăng",
+          "Mức tiêu thụ nhiên liệu đường hỗn hợp (lít/100 km)": "8,39"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "5",
+          "Kích thước dài x rộng x cao (mm)": "4973x1900 x 1500",
+          "Chiều dài cơ sở (mm)": "2.968",
+          "Khoảng sáng gầm (mm)": "150",
+          "Dung tích bình nhiên liệu (lít)": "70",
+          "Trọng lượng bản thân (kg)": "1.795",
+          "Trọng lượng toàn tải (kg)": "2.330",
+          "Lốp, la-zăng": "245/45 R18, 245/45 R18 / Hợp kim nhôm 18 inch"
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Phanh trước": "Đĩa thông gió",
+          "Phanh sau": "Đĩa thông gió",
+          "Treo trước": "Độc lập, tay đòn dưới kép, giá đỡ bằng nhôm",
+          "Treo sau": "Độc lập, 5 liên kết với đòn dẫn hướng và thanh ổn định ngang"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "LED",
+          "Đèn chiếu gần": "LED",
+          "Đèn ban ngày": "LED",
+          "Đèn pha tự động bật/tắt": "Có",
+          "Đèn pha tự động xa/gần": "Có",
+          "Đèn pha tự động điều chỉnh góc chiếu": "Không",
+          "Đèn hậu": "LED",
+          "Đèn phanh trên cao": "Có",
+          "Gương chiếu hậu": "Gập điện, chỉnh điện, tích hợp đèn báo rẽ và sấy gương Gương bên phải tự điều chỉnh khi vào số lùi",
+          "Sấy gương chiếu hậu": "Có",
+          "Gạt mưa tự động": "Có",
+          "Ăng ten vây cá": "Có",
+          "Cốp đóng/mở điện": "Không",
+          "Mở cốp rảnh tay": "Không"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Khởi động nút bấm": "Có",
+          "Điều hoà": "Tự động ( 2 vùng độc lập)",
+          "Cửa gió hàng ghế sau": "Có",
+          "Cửa kính một chạm": "Tất cả các cửa",
+          "Cửa sổ trời": "Không",
+          "Cửa sổ trời toàn cảnh": "Không",
+          "Gương chiếu hậu trong xe chống chói tự động": "Có",
+          "Tựa tay hàng ghế trước": "Có",
+          "Tựa tay hàng ghế sau": "Có",
+          "Màn hình giải trí": "Màn hình cảm ứng 10.4 inch, màu",
+          "Kết nối Apple CarPlay": "Có",
+          "Kết nối Android Auto": "Không",
+          "Ra lệnh giọng nói": "Không",
+          "Đàm thoại rảnh tay": "Có",
+          "Hệ thống loa": "8",
+          "Phát WiFi": "Không",
+          "Kết nối AUX": "Không",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Sạc không dây": "Không",
+          "Chất liệu bọc ghế": "Da tổng hợp màu đen",
+          "Điều chỉnh ghế lái": "Chỉnh điện 4 hướng, chỉnh cơ 2 hướng",
+          "Nhớ vị trí ghế lái": "Không",
+          "Massage ghế lái": "Không",
+          "Điều chỉnh ghế phụ": "Không",
+          "Massage ghế phụ": "Không",
+          "Thông gió (làm mát) ghế lái": "Không",
+          "Thông gió (làm mát) ghế phụ": "Không",
+          "Sưởi ấm ghế lái": "Không",
+          "Sưởi ấm ghế phụ": "Không",
+          "Bảng đồng hồ tài xế": "Dạng kết hợp, 7 inch",
+          "Nút bấm tích hợp trên vô-lăng": "Có",
+          "Chất liệu bọc vô-lăng": "Da",
+          "Hàng ghế thứ hai": "60/40",
+          "Hàng ghế thứ ba": "Không",
+          "Chìa khoá thông minh": "Có"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Trợ lực vô-lăng": "Thủy lực, điều khiển điện",
+          "Nhiều chế độ lái": "Không",
+          "Lẫy chuyển số trên vô-lăng": "Không",
+          "Ngắt động cơ tạm thời (Idling Stop/Start-Stop)": "Có",
+          "Hỗ trợ đánh lái khi vào cua": "Không",
+          "Kiểm soát gia tốc": "Không",
+          "Phanh tay điện tử": "Có",
+          "Giữ phanh tự động": "Có",
+          "Hiển thị thông tin trên kính lái (HUD)": "Có"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Kiểm soát hành trình (Cruise Control)": "Có",
+          "Kiểm soát hành trình thích ứng (Adaptive Cruise Control)": "Không",
+          "Số túi khí": "6",
+          "Hỗ trợ giữ làn": "Không",
+          "Hỗ trợ phanh tự động giảm thiểu va chạm": "Không",
+          "Cảnh báo phương tiện cắt ngang khi lùi": "Không",
+          "Cảnh báo tài xế buồn ngủ": "Không",
+          "Móc ghế an toàn cho trẻ em Isofix": "Có",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Hỗ trợ đổ đèo": "Không",
+          "Cảnh báo điểm mù": "Không",
+          "Cảm biến lùi": "Có",
+          "Camera lùi": "Có",
+          "Camera 360": "Không",
+          "Camera quan sát làn đường (LaneWatch)": "Không",
+          "Cảnh báo chệch làn đường": "Không"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "Lux SA2.0",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Tiêu chuẩn - 1 tỷ 552 triệu",
+      "listed_price": "1 tỷ 552 triệu"
+    },
+    "vehicle_type": "SUV",
+    "origin": "Lắp ráp",
+    "segment": "SUV cỡ trung",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "I-4, DOHC, tăng áp, van biến thiên, phun nhiên liệu trực tiếp",
+          "Dung tích (cc)": "2.000",
+          "Công suất máy xăng/dầu (Mã lực)/vòng tua (vòng/phút)": "228/ 5.000-6.000",
+          "Mô-men xoắn máy xăng/dầu (Nm)/vòng tua (vòng/phút)": "350/ 1.750-4.500",
+          "Hộp số": "Tự động 8 cấp ZF",
+          "Hệ dẫn động": "Cầu sau (RWD)",
+          "Loại nhiên liệu": "Xăng",
+          "Mức tiêu thụ nhiên liệu đường hỗn hợp (lít/100 km)": "8,39"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "7",
+          "Kích thước dài x rộng x cao (mm)": "4940x1960x1773",
+          "Chiều dài cơ sở (mm)": "2.933",
+          "Khoảng sáng gầm (mm)": "195",
+          "Dung tích bình nhiên liệu (lít)": "85",
+          "Trọng lượng bản thân (kg)": "2.140",
+          "Trọng lượng toàn tải (kg)": "2.850",
+          "Lốp, la-zăng": "255/50R19, 285/45R19, la zăng hợp kim nhôm 19 inch"
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Treo trước": "Độc lập, tay đòn dưới kép, giá đỡ bằng nhôm",
+          "Treo sau": "Độc lập, 5 liên kết với đòn dẫn hướng và thanh ổn định ngang, giảm chấn khí nén",
+          "Phanh trước": "Đĩa tản nhiệt",
+          "Phanh sau": "Đĩa tản nhiệt"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "LED",
+          "Đèn chiếu gần": "LED",
+          "Đèn ban ngày": "LED",
+          "Đèn pha tự động bật/tắt": "Có",
+          "Đèn pha tự động xa/gần": "Có",
+          "Đèn pha tự động điều chỉnh góc chiếu": "Không",
+          "Đèn hậu": "LED",
+          "Đèn phanh trên cao": "Có",
+          "Gương chiếu hậu": "Gập điện, chỉnh điện, tích hợp đèn báo rẽ Gương bên phải tự điều chỉnh khi vào số lùi",
+          "Sấy gương chiếu hậu": "Có",
+          "Gạt mưa tự động": "Có",
+          "Ăng ten vây cá": "Có",
+          "Cốp đóng/mở điện": "Không",
+          "Mở cốp rảnh tay": "Không"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc ghế": "Da tổng hợp",
+          "Điều chỉnh ghế lái": "Chỉnh điện 4 hướng, chỉnh cơ 2 hướng",
+          "Massage ghế lái": "Không",
+          "Điều chỉnh ghế phụ": "Chỉnh điện 4 hướng, chỉnh cơ 2 hướng",
+          "Massage ghế phụ": "Không",
+          "Thông gió (làm mát) ghế lái": "Không",
+          "Thông gió (làm mát) ghế phụ": "Không",
+          "Sưởi ấm ghế lái": "Không",
+          "Sưởi ấm ghế phụ": "Không",
+          "Bảng đồng hồ tài xế": "Dạng kết hợp, 7 inch",
+          "Nút bấm tích hợp trên vô-lăng": "Có",
+          "Chất liệu bọc vô-lăng": "Da",
+          "Hàng ghế thứ hai": "40/20/40 , gập cơ, có chỉnh độ nghiêng lưng ghế",
+          "Hàng ghế thứ ba": "50/50, gập cơ",
+          "Chìa khoá thông minh": "Có",
+          "Khởi động nút bấm": "Có",
+          "Điều hoà": "Tự động ( 2 vùng độc lập)",
+          "Cửa gió hàng ghế sau": "Có",
+          "Cửa kính một chạm": "Có (tất cả các ghế trừ hàng thứ 3)",
+          "Cửa sổ trời": "Không",
+          "Cửa sổ trời toàn cảnh": "Không",
+          "Gương chiếu hậu trong xe chống chói tự động": "Có",
+          "Tựa tay hàng ghế trước": "Có",
+          "Tựa tay hàng ghế sau": "Có",
+          "Màn hình giải trí": "Màn hình cảm ứng 10.4 inch",
+          "Kết nối Apple CarPlay": "Có",
+          "Kết nối Android Auto": "Không",
+          "Ra lệnh giọng nói": "Không",
+          "Đàm thoại rảnh tay": "Có",
+          "Hệ thống loa": "8",
+          "Phát WiFi": "Không",
+          "Kết nối AUX": "Không",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Sạc không dây": "Không"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Trợ lực vô-lăng": "Không",
+          "Ngắt động cơ tạm thời (Idling Stop/Start-Stop)": "Có",
+          "Hỗ trợ đánh lái khi vào cua": "Không",
+          "Kiểm soát gia tốc": "Không",
+          "Phanh tay điện tử": "Có",
+          "Giữ phanh tự động": "Có",
+          "Hiển thị thông tin trên kính lái (HUD)": "Không"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Kiểm soát hành trình (Cruise Control)": "Có",
+          "Kiểm soát hành trình thích ứng (Adaptive Cruise Control)": "Không",
+          "Số túi khí": "6",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Hỗ trợ đổ đèo": "Có",
+          "Cảnh báo điểm mù": "Không",
+          "Cảm biến lùi": "Có",
+          "Camera lùi": "Có",
+          "Camera 360": "Không",
+          "Camera quan sát làn đường (LaneWatch)": "Không",
+          "Cảnh báo chệch làn đường": "Không",
+          "Hỗ trợ giữ làn": "Không",
+          "Hỗ trợ phanh tự động giảm thiểu va chạm": "Không",
+          "Cảnh báo phương tiện cắt ngang khi lùi": "Không",
+          "Cảnh báo tài xế buồn ngủ": "Không",
+          "Móc ghế an toàn cho trẻ em Isofix": "Không"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "Nerio Green",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Tiêu chuẩn - 668 triệu",
+      "listed_price": "668 triệu"
+    },
+    "vehicle_type": "Crossover",
+    "origin": "Sản xuất trong nước",
+    "segment": "",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Động cơ điện",
+          "Công suất máy xăng/dầu (Mã lực)/vòng tua (vòng/phút)": "147",
+          "Mô-men xoắn máy xăng/dầu (Nm)/vòng tua (vòng/phút)": "242",
+          "Hệ dẫn động": "Cầu trước (FWD)",
+          "Tầm hoạt động (km)": "285 (chuẩn NEDC)",
+          "Thời gian sạc nhanh DC từ 10-80% (phút)": "18 phút đi 180 km",
+          "Loại pin": "Lithium",
+          "Hộp số": "1 cấp"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "5",
+          "Kích thước dài x rộng x cao (mm)": "4.300 x 1.793 x 1.613",
+          "Chiều dài cơ sở (mm)": "2.611",
+          "Khoảng sáng gầm (mm)": "180",
+          "Trọng lượng bản thân (kg)": "1.490",
+          "Trọng lượng toàn tải (kg)": "1.815",
+          "Lốp, la-zăng": "La zăng 18 inch"
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Treo trước": "Độc lập kiểu MacPherson",
+          "Treo sau": "Dầm xoắn",
+          "Phanh trước": "Đĩa",
+          "Phanh sau": "Đĩa"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "LED",
+          "Đèn chiếu gần": "LED",
+          "Đèn ban ngày": "LED",
+          "Đèn pha tự động bật/tắt": "Có",
+          "Đèn pha tự động xa/gần": "Không",
+          "Đèn pha tự động điều chỉnh góc chiếu": "Không",
+          "Đèn hậu": "LED",
+          "Đèn phanh trên cao": "Có",
+          "Gương chiếu hậu": "Chỉnh điện, gập điện, báo rẽ",
+          "Sấy gương chiếu hậu": "Không",
+          "Gạt mưa tự động": "Có",
+          "Ăng ten vây cá": "Có",
+          "Cốp đóng/mở điện": "Có",
+          "Mở cốp rảnh tay": "Không"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc ghế": "Giả da (Vinyl)",
+          "Điều chỉnh ghế lái": "Không (Chỉnh tay 6 hướng)",
+          "Điều chỉnh ghế phụ": "Không (Chỉnh tay 6 hướng)",
+          "Bảng đồng hồ tài xế": "Digital 7 inch",
+          "Nút bấm tích hợp trên vô-lăng": "Có",
+          "Chất liệu bọc vô-lăng": "Da",
+          "Hàng ghế thứ hai": "60/40",
+          "Chìa khoá thông minh": "Có",
+          "Khởi động nút bấm": "Có",
+          "Điều hoà": "Tự động",
+          "Cửa gió hàng ghế sau": "Có",
+          "Cửa kính một chạm": "Có, cả hàng trước và sau",
+          "Gương chiếu hậu trong xe chống chói tự động": "Có",
+          "Tựa tay hàng ghế trước": "Có",
+          "Tựa tay hàng ghế sau": "Không",
+          "Màn hình giải trí": "Màn hình cảm ứng 10 inch",
+          "Kết nối Apple CarPlay": "Có",
+          "Kết nối Android Auto": "Có",
+          "Ra lệnh giọng nói": "Có",
+          "Đàm thoại rảnh tay": "Có",
+          "Hệ thống loa": "6",
+          "Phát WiFi": "Có",
+          "Kết nối AUX": "Không",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Sạc không dây": "Không",
+          "Lọc không khí": "Có",
+          "Điều hướng (bản đồ)": "Có"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Trợ lực vô-lăng": "Trợ lực lái điện EPS",
+          "Nhiều chế độ lái": "Có"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Kiểm soát hành trình (Cruise Control)": "Có",
+          "Số túi khí": "6",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Hỗ trợ đổ đèo": "Không",
+          "Cảnh báo điểm mù": "Có",
+          "Cảm biến lùi": "Có",
+          "Camera lùi": "Có",
+          "Camera 360": "Có",
+          "Camera quan sát làn đường (LaneWatch)": "Không",
+          "Cảnh báo chệch làn đường": "Có",
+          "Hỗ trợ giữ làn": "Không",
+          "Hỗ trợ phanh tự động giảm thiểu va chạm": "Không",
+          "Cảnh báo phương tiện cắt ngang khi lùi": "Có",
+          "Cảnh báo tài xế buồn ngủ": "Không",
+          "Móc ghế an toàn cho trẻ em Isofix": "Có",
+          "Cảm biến áp suất lốp": "Có",
+          "Cảm biến khoảng cách phía trước": "Có"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "President",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "President - 4 tỷ 600 triệu",
+      "listed_price": "4 tỷ 600 triệu"
+    },
+    "vehicle_type": "SUV",
+    "origin": "Lắp ráp",
+    "segment": "",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Công suất máy xăng/dầu (Mã lực)/vòng tua (vòng/phút)": "420Hp/5600rpm",
+          "Dung tích (cc)": "6.200",
+          "Hệ dẫn động": "4 bánh toàn thời gian",
+          "Hộp số": "Tự động 8 cấp",
+          "Kiểu động cơ": "Xăng, V8",
+          "Loại nhiên liệu": "Xăng",
+          "Mô-men xoắn máy xăng/dầu (Nm)/vòng tua (vòng/phút)": "624Nm/4100rpm"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Chiều dài cơ sở (mm)": "3.133",
+          "Dung tích bình nhiên liệu (lít)": "85",
+          "Khoảng sáng gầm (mm)": "183",
+          "Kích thước dài x rộng x cao (mm)": "5146 x 1987 x1760",
+          "Lốp, la-zăng": "275/40 R20, 315/35 R20",
+          "Số chỗ": "7",
+          "Trọng lượng bản thân (kg)": "2.424",
+          "Trọng lượng toàn tải (kg)": "3.074"
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Phanh sau": "Đĩa tản nhiệt",
+          "Phanh trước": "Đĩa tản nhiệt",
+          "Treo sau": "Độc lập, 5 liên kết với đòn dẫn hướng và thanh ổn định ngang, giảm chấn khí nén",
+          "Treo trước": "Độc lập, tay đòn dưới kép, giá đỡ bằng nhôm"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Ăng ten vây cá": "Có",
+          "Cốp đóng/mở điện": "Có",
+          "Gạt mưa tự động": "Có",
+          "Gương chiếu hậu": "chỉnh điện, gập điện, báo rẽ, tự điều chỉnh khi lùi",
+          "Mở cốp rảnh tay": "Có",
+          "Sấy gương chiếu hậu": "Có",
+          "Đèn ban ngày": "LED",
+          "Đèn chiếu gần": "LED",
+          "Đèn chiếu xa": "LED",
+          "Đèn hậu": "LED",
+          "Đèn pha tự động bật/tắt": "Có",
+          "Đèn pha tự động xa/gần": "Có",
+          "Đèn pha tự động điều chỉnh góc chiếu": "Không",
+          "Đèn phanh trên cao": "Có"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Bảng đồng hồ tài xế": "Dạng kết hợp, 7 inch",
+          "Chất liệu bọc ghế": "Da Nappa Thêu trang trí",
+          "Chất liệu bọc vô-lăng": "Da",
+          "Chìa khoá thông minh": "Có",
+          "Cửa gió hàng ghế sau": "Có",
+          "Cửa kính một chạm": "Có ( tất cả)",
+          "Cửa sổ trời": "Có",
+          "Cửa sổ trời toàn cảnh": "Không",
+          "Gương chiếu hậu trong xe chống chói tự động": "Có",
+          "Hàng ghế thứ ba": "Gập cơ",
+          "Hàng ghế thứ hai": "Gập cơ",
+          "Hệ thống loa": "13",
+          "Kết nối Android Auto": "Không",
+          "Kết nối Apple CarPlay": "Không",
+          "Kết nối AUX": "Không",
+          "Kết nối Bluetooth": "Có",
+          "Kết nối USB": "Có",
+          "Khởi động nút bấm": "Có",
+          "Màn hình giải trí": "Cảm ứng 12.3 inch",
+          "Massage ghế lái": "Có",
+          "Massage ghế phụ": "Có",
+          "Nhớ vị trí ghế lái": "Không",
+          "Nút bấm tích hợp trên vô-lăng": "Có",
+          "Phát WiFi": "Có",
+          "Ra lệnh giọng nói": "Không",
+          "Radio AM/FM": "Có",
+          "Sạc không dây": "Có",
+          "Sưởi ấm ghế lái": "Có",
+          "Sưởi ấm ghế phụ": "Có",
+          "Thông gió (làm mát) ghế lái": "Có",
+          "Thông gió (làm mát) ghế phụ": "Có",
+          "Tựa tay hàng ghế sau": "Có",
+          "Tựa tay hàng ghế trước": "Có",
+          "Đàm thoại rảnh tay": "Có",
+          "Điều chỉnh ghế lái": "Có ( 12 hướng, chỉnh tựa đầu 2 hướng)",
+          "Điều chỉnh ghế phụ": "Có ( 12 hướng, chỉnh tựa đầu 2 hướng)",
+          "Điều hoà": "Tự động"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Giữ phanh tự động": "Có",
+          "Hiển thị thông tin trên kính lái (HUD)": "Có",
+          "Hỗ trợ đánh lái khi vào cua": "Không",
+          "Kiểm soát gia tốc": "Không",
+          "Lẫy chuyển số trên vô-lăng": "Không",
+          "Ngắt động cơ tạm thời (Idling Stop/Start-Stop)": "Không",
+          "Nhiều chế độ lái": "Không",
+          "Phanh tay điện tử": "Có",
+          "Trợ lực vô-lăng": "Trợ lực thủy lực, điều khiển điện"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Cảm biến lùi": "Có",
+          "Camera 360": "Có",
+          "Camera lùi": "Có",
+          "Camera quan sát làn đường (LaneWatch)": "Không",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Cảnh báo chệch làn đường": "Có",
+          "Cảnh báo phương tiện cắt ngang khi lùi": "Không",
+          "Cảnh báo tài xế buồn ngủ": "Không",
+          "Cảnh báo điểm mù": "Có",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ giữ làn": "Không",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Hỗ trợ phanh tự động giảm thiểu va chạm": "Không",
+          "Hỗ trợ đổ đèo": "Có",
+          "Kiểm soát hành trình (Cruise Control)": "Có",
+          "Kiểm soát hành trình thích ứng (Adaptive Cruise Control)": "Không",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Móc ghế an toàn cho trẻ em Isofix": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Số túi khí": "6"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "VF 3",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Kèm pin - 302 triệu",
+      "listed_price": "302 triệu"
+    },
+    "vehicle_type": "Crossover",
+    "origin": "Sản xuất trong nước",
+    "segment": "xe siêu nhỏ",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Điện",
+          "Công suất môtơ điện (mã lực)": "43",
+          "Mô-men xoắn môtơ điện (Nm)": "110",
+          "Hộp số": "1 cấp",
+          "Hệ dẫn động": "Cầu sau (RWD)",
+          "Thời gian tăng tốc từ 0-100 km/h (giây)": "5,3",
+          "Loại pin": "LFP",
+          "Dung lượng pin (kWh)": "18,64 kWh",
+          "Bộ sạc tiêu chuẩn theo xe": "Chưa công bố",
+          "Thời gian nạp pin bình thường": "5 giờ (10-70%)",
+          "Thời gian sạc nhanh DC 10-70% (phút)": "36 phút",
+          "Tầm hoạt động (km)": "210",
+          "Tốc độ tối đa (km/h)": "100",
+          "Hệ thống phanh tái sinh": "Có"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "4",
+          "Kích thước dài x rộng x cao (mm)": "3.190 x 1.679 x 1.622",
+          "Chiều dài cơ sở (mm)": "2.075",
+          "Khoảng sáng gầm (mm)": "191",
+          "Lốp, la-zăng": "175/75 R16"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "Halogen",
+          "Đèn chiếu gần": "Halogen",
+          "Đèn ban ngày": "Halogen",
+          "Đèn pha tự động bật/tắt": "Không",
+          "Đèn hậu": "Halogen",
+          "Đèn phanh trên cao": "Không",
+          "Gạt mưa tự động": "Không",
+          "Ăng ten vây cá": "Có",
+          "Tùy chọn sơn hai màu": "Có",
+          "Gương hậu ngoài tự động hạ thấp khi lùi": "Không",
+          "Đèn sương mù": "LED",
+          "Cánh gió sau": "Không",
+          "Khe gió nắp ca pô": "Không"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc ghế": "Nỉ",
+          "Điều chỉnh ghế lái": "Cơ",
+          "Điều chỉnh ghế phụ": "Cơ",
+          "Nút bấm tích hợp trên vô-lăng": "Không",
+          "Chất liệu bọc vô-lăng": "Nhựa",
+          "Chìa khoá thông minh": "Có",
+          "Khởi động nút bấm": "Có",
+          "Điều hoà": "Chỉnh cơ, 1 vùng",
+          "Cửa gió hàng ghế sau": "Không",
+          "Cửa sổ trời": "Không",
+          "Gương chiếu hậu trong xe chống chói tự động": "Không",
+          "Tựa tay hàng ghế trước": "Không",
+          "Tựa tay hàng ghế sau": "Không",
+          "Màn hình giải trí": "10 inch",
+          "Kết nối Apple CarPlay": "Có",
+          "Kết nối Android Auto": "Có",
+          "Ra lệnh giọng nói": "Không",
+          "Đàm thoại rảnh tay": "Không",
+          "Phát WiFi": "Không",
+          "Kết nối AUX": "Không",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Sạc không dây": "Không"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Chế độ lái": "Eco/Normal",
+          "Trợ lực vô-lăng": "Điện",
+          "Phanh tay điện tử": "Không",
+          "Giữ phanh tự động": "Không",
+          "Quản lý xe qua app điện thoại": "Có"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Kiểm soát hành trình (Cruise Control)": "Không",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Camera lùi": "Có",
+          "Camera 360": "Không",
+          "Móc ghế an toàn cho trẻ em Isofix": "Không",
+          "Cảm biến áp suất lốp": "Không",
+          "Hệ thống cảm biến trước/sau": "Không",
+          "Phanh tự động khẩn cấp sau va chạm": "Không",
+          "Cảm biến lùi": "Có",
+          "Số túi khí": "Ghế lái"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "VF 5",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Plus - 529 triệu",
+      "listed_price": "529 triệu"
+    },
+    "vehicle_type": "Crossover",
+    "origin": "Sản xuất trong nước",
+    "segment": "A",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Động cơ điện",
+          "Công suất máy xăng/dầu (Mã lực)/vòng tua (vòng/phút)": "134",
+          "Mô-men xoắn máy xăng/dầu (Nm)/vòng tua (vòng/phút)": "135",
+          "Hộp số": "Đơn cấp",
+          "Hệ dẫn động": "FWD/Cầu trước",
+          "Tầm hoạt động (km)": ">300Km (chuẩn NEDC)",
+          "Thời gian sạc nhanh DC từ 10-80% (phút)": "30 phút",
+          "Loại pin": "Lithium",
+          "Dung lượng pin (kWh)": "37,23 (kWh)"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "5",
+          "Kích thước dài x rộng x cao (mm)": "3.965 x 1.720 x 1.580",
+          "Chiều dài cơ sở (mm)": "2.513",
+          "Khoảng sáng gầm (mm)": "182",
+          "Dung tích khoang hành lý (lít)": "260",
+          "Trọng lượng bản thân (kg)": "1.360",
+          "Lốp, la-zăng": "Hợp kim 17 inch"
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Treo trước": "Độc lập, MacPherson",
+          "Treo sau": "Dầm xoắn",
+          "Phanh trước": "Đĩa thông gió",
+          "Phanh sau": "Đĩa"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "Halogen",
+          "Đèn chiếu gần": "Halogen",
+          "Đèn ban ngày": "Led",
+          "Đèn pha tự động bật/tắt": "Có",
+          "Đèn pha tự động xa/gần": "Có",
+          "Đèn pha tự động điều chỉnh góc chiếu": "Không",
+          "Đèn hậu": "Halogen",
+          "Gương chiếu hậu": "Chỉnh điện, Tích hợp đèn báo rẽ",
+          "Sấy gương chiếu hậu": "Không",
+          "Gạt mưa tự động": "Không",
+          "Ăng ten vây cá": "Có"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc ghế": "Giả da",
+          "Điều chỉnh ghế lái": "Chỉnh cơ 6 hướng",
+          "Điều chỉnh ghế phụ": "Chỉnh cơ 4 hướng",
+          "Bảng đồng hồ tài xế": "7 inch",
+          "Nút bấm tích hợp trên vô-lăng": "Có",
+          "Chất liệu bọc vô-lăng": "Nhựa mềm không bọc. Chỉnh cơ 2 hướng",
+          "Hàng ghế thứ hai": "Gập tỉ lệ 60:40",
+          "Chìa khoá thông minh": "Không",
+          "Điều hoà": "Chỉnh cơ, 1 vùng",
+          "Cửa gió hàng ghế sau": "Không",
+          "Cửa kính một chạm": "Chỉ ở ghế lái",
+          "Tựa tay hàng ghế trước": "Không",
+          "Màn hình giải trí": "8 inch",
+          "Kết nối Apple CarPlay": "Không",
+          "Kết nối Android Auto": "Không",
+          "Ra lệnh giọng nói": "Có",
+          "Đàm thoại rảnh tay": "Có",
+          "Hệ thống loa": "4 loa",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Trợ lý ảo": "Có"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Trợ lực vô-lăng": "Điện",
+          "Nhiều chế độ lái": "Không",
+          "Lẫy chuyển số trên vô-lăng": "Không",
+          "Ngắt động cơ tạm thời (Idling Stop/Start-Stop)": "Không",
+          "Hỗ trợ đánh lái khi vào cua": "Không",
+          "Quản lý xe qua app điện thoại": "Có"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Kiểm soát hành trình (Cruise Control)": "Không",
+          "Số túi khí": "6 túi khí",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Hỗ trợ đổ đèo": "Không",
+          "Cảnh báo điểm mù": "Có",
+          "Cảm biến lùi": "Có",
+          "Camera lùi": "Có",
+          "Camera 360": "Không",
+          "Móc ghế an toàn cho trẻ em Isofix": "Có",
+          "Cảm biến áp suất lốp": "Có"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "VF 5",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Plus - 529 triệu",
+      "listed_price": "529 triệu"
+    },
+    "vehicle_type": "Crossover",
+    "origin": "Sản xuất trong nước",
+    "segment": "A",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Động cơ điện",
+          "Công suất máy xăng/dầu (Mã lực)/vòng tua (vòng/phút)": "134",
+          "Mô-men xoắn máy xăng/dầu (Nm)/vòng tua (vòng/phút)": "135",
+          "Hộp số": "Đơn cấp",
+          "Hệ dẫn động": "FWD/Cầu trước",
+          "Tầm hoạt động (km)": ">300Km (chuẩn NEDC)",
+          "Thời gian sạc nhanh DC từ 10-80% (phút)": "30 phút",
+          "Loại pin": "Lithium",
+          "Dung lượng pin (kWh)": "37,23 (kWh)"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "5",
+          "Kích thước dài x rộng x cao (mm)": "3.965 x 1.720 x 1.580",
+          "Chiều dài cơ sở (mm)": "2.513",
+          "Khoảng sáng gầm (mm)": "182",
+          "Dung tích khoang hành lý (lít)": "260",
+          "Trọng lượng bản thân (kg)": "1.360",
+          "Lốp, la-zăng": "Hợp kim 17 inch"
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Treo trước": "Độc lập, MacPherson",
+          "Treo sau": "Dầm xoắn",
+          "Phanh trước": "Đĩa thông gió",
+          "Phanh sau": "Đĩa"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "Halogen",
+          "Đèn chiếu gần": "Halogen",
+          "Đèn ban ngày": "Led",
+          "Đèn pha tự động bật/tắt": "Có",
+          "Đèn pha tự động xa/gần": "Có",
+          "Đèn pha tự động điều chỉnh góc chiếu": "Không",
+          "Đèn hậu": "Halogen",
+          "Gương chiếu hậu": "Chỉnh điện, Tích hợp đèn báo rẽ",
+          "Sấy gương chiếu hậu": "Không",
+          "Gạt mưa tự động": "Không",
+          "Ăng ten vây cá": "Có"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc ghế": "Giả da",
+          "Điều chỉnh ghế lái": "Chỉnh cơ 6 hướng",
+          "Điều chỉnh ghế phụ": "Chỉnh cơ 4 hướng",
+          "Bảng đồng hồ tài xế": "7 inch",
+          "Nút bấm tích hợp trên vô-lăng": "Có",
+          "Chất liệu bọc vô-lăng": "Nhựa mềm không bọc. Chỉnh cơ 2 hướng",
+          "Hàng ghế thứ hai": "Gập tỉ lệ 60:40",
+          "Chìa khoá thông minh": "Không",
+          "Điều hoà": "Chỉnh cơ, 1 vùng",
+          "Cửa gió hàng ghế sau": "Không",
+          "Cửa kính một chạm": "Chỉ ở ghế lái",
+          "Tựa tay hàng ghế trước": "Không",
+          "Màn hình giải trí": "8 inch",
+          "Kết nối Apple CarPlay": "Không",
+          "Kết nối Android Auto": "Không",
+          "Ra lệnh giọng nói": "Có",
+          "Đàm thoại rảnh tay": "Có",
+          "Hệ thống loa": "4 loa",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Trợ lý ảo": "Có"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Trợ lực vô-lăng": "Điện",
+          "Nhiều chế độ lái": "Không",
+          "Lẫy chuyển số trên vô-lăng": "Không",
+          "Ngắt động cơ tạm thời (Idling Stop/Start-Stop)": "Không",
+          "Hỗ trợ đánh lái khi vào cua": "Không",
+          "Quản lý xe qua app điện thoại": "Có"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Kiểm soát hành trình (Cruise Control)": "Không",
+          "Số túi khí": "6 túi khí",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Hỗ trợ đổ đèo": "Không",
+          "Cảnh báo điểm mù": "Có",
+          "Cảm biến lùi": "Có",
+          "Camera lùi": "Có",
+          "Camera 360": "Không",
+          "Móc ghế an toàn cho trẻ em Isofix": "Có",
+          "Cảm biến áp suất lốp": "Có"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "VF 6",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Eco - 689 triệu",
+      "listed_price": "689 triệu"
+    },
+    "vehicle_type": "Crossover",
+    "origin": "Sản xuất trong nước",
+    "segment": "xe gầm cao cỡ B sôi động bậc nhất thị trường",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Điện đơn",
+          "Công suất môtơ điện (mã lực)": "174",
+          "Mô-men xoắn môtơ điện (Nm)": "250",
+          "Hộp số": "1 cấp",
+          "Hệ dẫn động": "Cầu trước",
+          "Tầm hoạt động (km)": "480",
+          "Loại pin": "Lithium-ion",
+          "Dung lượng pin (kWh)": "59,6",
+          "Cần số điện tử": "Dạng nút bấm",
+          "Thời gian sạc AC tiêu chuẩn từ 0%-100% (giờ)": "9",
+          "Bộ sạc tiêu chuẩn theo xe": "7,2 kW hoặc 11 kW",
+          "Hệ thống phanh tái sinh": "Có (Thấp, Cao)",
+          "Thời gian sạc nhanh DC 10-70% (phút)": "24,19"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "5",
+          "Kích thước dài x rộng x cao (mm)": "4.241 x 1.834 x 1.580",
+          "Chiều dài cơ sở (mm)": "2,730",
+          "Khoảng sáng gầm (mm)": "170",
+          "Trọng lượng bản thân (kg)": "1,550",
+          "Trọng lượng toàn tải (kg)": "1,977",
+          "Lốp, la-zăng": "17 inch"
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Treo trước": "Độc lập, MacPherson",
+          "Treo sau": "Thanh điều hướng đa điểm",
+          "Phanh trước": "Đĩa",
+          "Phanh sau": "Đĩa"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "LED",
+          "Đèn chiếu gần": "LED",
+          "Đèn ban ngày": "LED",
+          "Đèn pha tự động bật/tắt": "Có",
+          "Đèn hậu": "LED",
+          "Đèn phanh trên cao": "Có",
+          "Gương chiếu hậu": "Chỉnh điện, gập tự động",
+          "Gạt mưa tự động": "Có",
+          "Ăng ten vây cá": "Có",
+          "Cốp đóng/mở điện": "Không",
+          "Đèn sương mù": "Sau"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc ghế": "Giả da",
+          "Điều chỉnh ghế lái": "Chính chơ 6 hướng",
+          "Điều chỉnh ghế phụ": "Chính cơ cao thấp",
+          "Bảng đồng hồ tài xế": "Tích hợp vào màn hình trung tâm",
+          "Nút bấm tích hợp trên vô-lăng": "Có",
+          "Chất liệu bọc vô-lăng": "Da",
+          "Hàng ghế thứ hai": "Gập 60:40",
+          "Chìa khoá thông minh": "Có",
+          "Khởi động nút bấm": "Có",
+          "Điều hoà": "Tự động, 1 vùng",
+          "Cửa gió hàng ghế sau": "Có",
+          "Cửa kính một chạm": "4 cửa",
+          "Cửa sổ trời": "Không",
+          "Gương chiếu hậu trong xe chống chói tự động": "Không",
+          "Tựa tay hàng ghế sau": "Có",
+          "Màn hình giải trí": "Cảm ứng 12,9 inch",
+          "Ra lệnh giọng nói": "Có",
+          "Đàm thoại rảnh tay": "Có",
+          "Hệ thống loa": "6",
+          "Phát WiFi": "Có",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Sạc không dây": "Không",
+          "Lọc không khí": "Có",
+          "Trợ lý ảo": "Có",
+          "Kết nối điện thoại thông minh": "VF Connect"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Chế độ lái": "Eco, Normal, Sport",
+          "Phanh tay điện tử": "Có",
+          "Giữ phanh tự động": "Có",
+          "Hiển thị thông tin trên kính lái (HUD)": "Có",
+          "Hỗ trợ đỗ xe chủ động": "Có",
+          "Quản lý xe qua app điện thoại": "Có"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Kiểm soát hành trình (Cruise Control)": "Có",
+          "Kiểm soát hành trình thích ứng (Adaptive Cruise Control)": "Không",
+          "Số túi khí": "4",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Cảnh báo điểm mù": "Có",
+          "Camera lùi": "Có",
+          "Camera 360": "Có",
+          "Cảnh báo chệch làn đường": "Không",
+          "Hỗ trợ giữ làn": "Không",
+          "Hỗ trợ phanh tự động giảm thiểu va chạm": "Không",
+          "Cảnh báo phương tiện cắt ngang khi lùi": "Không",
+          "Cảm biến áp suất lốp": "Có",
+          "Cảnh báo tiền va chạm": "Không",
+          "Hỗ trợ chuyển làn": "Không",
+          "Tự động chuyển làn": "Không",
+          "Cảnh báo giao thông khi mở cửa": "Không",
+          "Hỗ trợ đỗ xe tự động": "Không",
+          "Hệ thống cảm biến trước/sau": "Có"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "VF 7",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Eco - 799 triệu",
+      "listed_price": "799 triệu"
+    },
+    "vehicle_type": "Crossover",
+    "origin": "Sản xuất trong nước",
+    "segment": "",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Một môtơ điện",
+          "Công suất môtơ điện (mã lực)": "174",
+          "Mô-men xoắn môtơ điện (Nm)": "250",
+          "Hộp số": "1 cấp",
+          "Hệ dẫn động": "Cầu trước (FWD)",
+          "Tầm hoạt động (km)": "496",
+          "Loại pin": "Lithium-ion",
+          "Dung lượng pin (kWh)": "59,6",
+          "Tốc độ tối đa (km/h)": "150"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "5",
+          "Kích thước dài x rộng x cao (mm)": "4.545 x 1.890 x 1.635",
+          "Chiều dài cơ sở (mm)": "2,840",
+          "Khoảng sáng gầm (mm)": "190",
+          "Lốp, la-zăng": "19 inch"
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Treo trước": "Độc lập, MacPherson",
+          "Treo sau": "Thanh điều hướng đa điểm",
+          "Phanh trước": "Đĩa",
+          "Phanh sau": "Đĩa"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "LED",
+          "Đèn chiếu gần": "LED",
+          "Đèn ban ngày": "LED",
+          "Đèn pha tự động bật/tắt": "Có",
+          "Đèn pha tự động điều chỉnh góc chiếu": "Không",
+          "Đèn hậu": "LED",
+          "Gương chiếu hậu": "Chỉnh điện, gập điện,báo rẽ",
+          "Sấy gương chiếu hậu": "Có",
+          "Gạt mưa tự động": "Có",
+          "Cốp đóng/mở điện": "Không",
+          "Mở cốp rảnh tay": "Không",
+          "Gương hậu ngoài tự động chống chói": "Không",
+          "Gương hậu ngoài tự động hạ thấp khi lùi": "Có"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc ghế": "Giả da",
+          "Điều chỉnh ghế lái": "Chỉnh điện 8 hướng",
+          "Nhớ vị trí ghế lái": "Không",
+          "Điều chỉnh ghế phụ": "Chỉnh cơ 4 hướng",
+          "Thông gió (làm mát) ghế lái": "Không",
+          "Thông gió (làm mát) ghế phụ": "Không",
+          "Bảng đồng hồ tài xế": "",
+          "Nút bấm tích hợp trên vô-lăng": "Có",
+          "Chất liệu bọc vô-lăng": "Da",
+          "Hàng ghế thứ hai": "Gập tỷ lệ 60:40",
+          "Chìa khoá thông minh": "Có",
+          "Khởi động nút bấm": "Có",
+          "Điều hoà": "Tự động, 2 vùng",
+          "Cửa gió hàng ghế sau": "Có",
+          "Cửa kính một chạm": "",
+          "Cửa sổ trời toàn cảnh": "Không",
+          "Gương chiếu hậu trong xe chống chói tự động": "Có",
+          "Tựa tay hàng ghế trước": "Có",
+          "Tựa tay hàng ghế sau": "Có",
+          "Màn hình giải trí": "Cảm ứng 12,9 Inch",
+          "Ra lệnh giọng nói": "Có",
+          "Đàm thoại rảnh tay": "Có",
+          "Hệ thống loa": "8 loa",
+          "Phát WiFi": "Không",
+          "Kết nối AUX": "Có",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Sạc không dây": "Không",
+          "Lọc không khí": "Có",
+          "Kiểm soát chất lượng không khí": "Có",
+          "Trợ lý ảo": "Có",
+          "Điều chỉnh vô-lăng": "Chỉnh cơ 4 hướng"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Trợ lực vô-lăng": "Điện",
+          "Nhiều chế độ lái": "Có",
+          "Phanh tay điện tử": "Có",
+          "Hiển thị thông tin trên kính lái (HUD)": "Có",
+          "Giới hạn tốc độ": "Có"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Kiểm soát hành trình (Cruise Control)": "Không",
+          "Kiểm soát hành trình thích ứng (Adaptive Cruise Control)": "Không",
+          "Số túi khí": "6",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Cảnh báo điểm mù": "Có",
+          "Cảm biến lùi": "",
+          "Camera lùi": "Có",
+          "Camera 360": "Có",
+          "Cảnh báo chệch làn đường": "Không",
+          "Hỗ trợ giữ làn": "Không",
+          "Móc ghế an toàn cho trẻ em Isofix": "Có",
+          "Cảm biến áp suất lốp": "Có",
+          "Cảnh báo tiền va chạm": "Không",
+          "Hỗ trợ chuyển làn": "Không",
+          "Tự động chuyển làn": "Không",
+          "Hệ thống cảm biến trước/sau": "Có"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "VF 8",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "VF 8 Eco (pin CATL) - 1 tỷ 019 triệu",
+      "listed_price": "1 tỷ 019 triệu"
+    },
+    "vehicle_type": "Crossover",
+    "origin": "Sản xuất trong nước",
+    "segment": "D",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Môtơ điện",
+          "Công suất môtơ điện (mã lực)": "350",
+          "Mô-men xoắn môtơ điện (Nm)": "500",
+          "Hộp số": "1 cấp",
+          "Hệ dẫn động": "AWD",
+          "Dung lượng pin (kWh)": "87,7",
+          "Loại nhiên liệu": "Điện",
+          "Tầm hoạt động (km)": "471",
+          "Thời gian sạc nhanh DC từ 10-80% (phút)": "Dưới 31 phút (10-70%)",
+          "Loại pin": "CATL",
+          "Bộ sạc tiêu chuẩn theo xe": "Có",
+          "Hệ thống phanh tái sinh": "Có"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "5",
+          "Kích thước dài x rộng x cao (mm)": "4.750 x 1.900 x 1.660",
+          "Chiều dài cơ sở (mm)": "2.950",
+          "Khoảng sáng gầm (mm)": "175",
+          "Dung tích khoang hành lý (lít)": "376",
+          "Trọng lượng bản thân (kg)": "2.455",
+          "Lốp, la-zăng": "19 inch"
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Treo trước": "Treo độc lập thông minh",
+          "Treo sau": "Thanh điều hướng đa điểm",
+          "Phanh trước": "Đĩa thông gió",
+          "Phanh sau": "Đĩa thông gió"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "LED",
+          "Đèn chiếu gần": "LED",
+          "Đèn ban ngày": "LED",
+          "Đèn sương mù": "Không",
+          "Đèn hậu": "LED",
+          "Đèn pha tự động bật/tắt": "Không",
+          "Đèn pha tự động điều chỉnh góc chiếu": "Không",
+          "Đèn phanh trên cao": "Có",
+          "Sấy gương chiếu hậu": "Có",
+          "Gương hậu ngoài tự động hạ thấp khi lùi": "Có",
+          "Ăng ten vây cá": "Có",
+          "Gạt mưa tự động": "Có",
+          "Cốp đóng/mở điện": "Không",
+          "Mở cốp rảnh tay": "Không"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc ghế": "Giả da",
+          "Điều chỉnh ghế lái": "Điện 8 hướng",
+          "Điều chỉnh ghế phụ": "Điện 6 hướng",
+          "Điều hoà": "Tự động 2 vùng",
+          "Màn hình giải trí": "Cảm ứng 15,6 inch",
+          "Hệ thống loa": "8 loa",
+          "Thông gió (làm mát) ghế lái": "Không",
+          "Thông gió (làm mát) ghế phụ": "Không",
+          "Sưởi ấm ghế lái": "Không",
+          "Sưởi ấm ghế phụ": "Không",
+          "Cửa gió hàng ghế sau": "Có",
+          "Cửa sổ trời": "Không",
+          "Kết nối Apple CarPlay": "Có",
+          "Kết nối Android Auto": "Có",
+          "Ra lệnh giọng nói": "Có",
+          "Đàm thoại rảnh tay": "Có",
+          "Lọc không khí": "Có",
+          "Kiểm soát chất lượng không khí": "Có",
+          "Trợ lý ảo": "Có",
+          "Nhớ vị trí ghế lái": "Không",
+          "Bảng đồng hồ tài xế": "Không",
+          "Chất liệu bọc vô-lăng": "Da nhân tạo",
+          "Nút bấm tích hợp trên vô-lăng": "Có",
+          "Hàng ghế thứ hai": "Chỉnh cơ, gập 60:40",
+          "Chìa khoá thông minh": "Có",
+          "Cửa kính một chạm": "4 cửa",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Sạc không dây": "Có",
+          "Kết nối điện thoại thông minh": "VF Connect",
+          "Khởi động nút bấm": "Có",
+          "Cửa sổ trời toàn cảnh": "Không",
+          "Gương chiếu hậu trong xe chống chói tự động": "Có",
+          "Sưởi và làm mát hàng ghế sau": "Không",
+          "Kết nối wifi": "Có"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Trợ lực vô-lăng": "Điện",
+          "Nhiều chế độ lái": "Có",
+          "Phanh tay điện tử": "Có",
+          "Giữ phanh tự động": "Có",
+          "Hỗ trợ đỗ xe chủ động": "Có",
+          "Hỗ trợ đọc biển báo, tín hiệu giao thông": "Không",
+          "Quản lý xe qua app điện thoại": "Có",
+          "Hiển thị thông tin trên kính lái (HUD)": "Có"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Số túi khí": "11",
+          "Kiểm soát hành trình (Cruise Control)": "Có",
+          "Kiểm soát hành trình thích ứng (Adaptive Cruise Control)": "Không",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Cảnh báo điểm mù": "Có",
+          "Cảm biến lùi": "Có",
+          "Camera lùi": "Có",
+          "Cảnh báo chệch làn đường": "Không",
+          "Hỗ trợ giữ làn": "Không",
+          "Tự động chuyển làn": "Không",
+          "Hỗ trợ phanh tự động giảm thiểu va chạm": "Không",
+          "Cảnh báo phương tiện cắt ngang khi lùi": "Không",
+          "Cảnh báo tài xế buồn ngủ": "Không",
+          "Móc ghế an toàn cho trẻ em Isofix": "Có",
+          "Cảm biến áp suất lốp": "Có",
+          "Cảm biến khoảng cách phía trước": "Không",
+          "Cảnh báo tiền va chạm": "Không",
+          "Hỗ trợ chuyển làn": "Không",
+          "Cảnh báo giao thông khi mở cửa": "Không",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Camera 360": "Có",
+          "Hệ thống đèn pha tự động AHB": "Không"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "VF 8",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "VF 8 Eco (pin CATL) - 1 tỷ 019 triệu",
+      "listed_price": "1 tỷ 019 triệu"
+    },
+    "vehicle_type": "Crossover",
+    "origin": "Sản xuất trong nước",
+    "segment": "D",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Môtơ điện",
+          "Công suất môtơ điện (mã lực)": "350",
+          "Mô-men xoắn môtơ điện (Nm)": "500",
+          "Hộp số": "1 cấp",
+          "Hệ dẫn động": "AWD",
+          "Dung lượng pin (kWh)": "87,7",
+          "Loại nhiên liệu": "Điện",
+          "Tầm hoạt động (km)": "471",
+          "Thời gian sạc nhanh DC từ 10-80% (phút)": "Dưới 31 phút (10-70%)",
+          "Loại pin": "CATL",
+          "Bộ sạc tiêu chuẩn theo xe": "Có",
+          "Hệ thống phanh tái sinh": "Có"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "5",
+          "Kích thước dài x rộng x cao (mm)": "4.750 x 1.900 x 1.660",
+          "Chiều dài cơ sở (mm)": "2.950",
+          "Khoảng sáng gầm (mm)": "175",
+          "Dung tích khoang hành lý (lít)": "376",
+          "Trọng lượng bản thân (kg)": "2.455",
+          "Lốp, la-zăng": "19 inch"
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Treo trước": "Treo độc lập thông minh",
+          "Treo sau": "Thanh điều hướng đa điểm",
+          "Phanh trước": "Đĩa thông gió",
+          "Phanh sau": "Đĩa thông gió"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "LED",
+          "Đèn chiếu gần": "LED",
+          "Đèn ban ngày": "LED",
+          "Đèn sương mù": "Không",
+          "Đèn hậu": "LED",
+          "Đèn pha tự động bật/tắt": "Không",
+          "Đèn pha tự động điều chỉnh góc chiếu": "Không",
+          "Đèn phanh trên cao": "Có",
+          "Sấy gương chiếu hậu": "Có",
+          "Gương hậu ngoài tự động hạ thấp khi lùi": "Có",
+          "Ăng ten vây cá": "Có",
+          "Gạt mưa tự động": "Có",
+          "Cốp đóng/mở điện": "Không",
+          "Mở cốp rảnh tay": "Không"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc ghế": "Giả da",
+          "Điều chỉnh ghế lái": "Điện 8 hướng",
+          "Điều chỉnh ghế phụ": "Điện 6 hướng",
+          "Điều hoà": "Tự động 2 vùng",
+          "Màn hình giải trí": "Cảm ứng 15,6 inch",
+          "Hệ thống loa": "8 loa",
+          "Thông gió (làm mát) ghế lái": "Không",
+          "Thông gió (làm mát) ghế phụ": "Không",
+          "Sưởi ấm ghế lái": "Không",
+          "Sưởi ấm ghế phụ": "Không",
+          "Cửa gió hàng ghế sau": "Có",
+          "Cửa sổ trời": "Không",
+          "Kết nối Apple CarPlay": "Có",
+          "Kết nối Android Auto": "Có",
+          "Ra lệnh giọng nói": "Có",
+          "Đàm thoại rảnh tay": "Có",
+          "Lọc không khí": "Có",
+          "Kiểm soát chất lượng không khí": "Có",
+          "Trợ lý ảo": "Có",
+          "Nhớ vị trí ghế lái": "Không",
+          "Bảng đồng hồ tài xế": "Không",
+          "Chất liệu bọc vô-lăng": "Da nhân tạo",
+          "Nút bấm tích hợp trên vô-lăng": "Có",
+          "Hàng ghế thứ hai": "Chỉnh cơ, gập 60:40",
+          "Chìa khoá thông minh": "Có",
+          "Cửa kính một chạm": "4 cửa",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Sạc không dây": "Có",
+          "Kết nối điện thoại thông minh": "VF Connect",
+          "Khởi động nút bấm": "Có",
+          "Cửa sổ trời toàn cảnh": "Không",
+          "Gương chiếu hậu trong xe chống chói tự động": "Có",
+          "Sưởi và làm mát hàng ghế sau": "Không",
+          "Kết nối wifi": "Có"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Trợ lực vô-lăng": "Điện",
+          "Nhiều chế độ lái": "Có",
+          "Phanh tay điện tử": "Có",
+          "Giữ phanh tự động": "Có",
+          "Hỗ trợ đỗ xe chủ động": "Có",
+          "Hỗ trợ đọc biển báo, tín hiệu giao thông": "Không",
+          "Quản lý xe qua app điện thoại": "Có",
+          "Hiển thị thông tin trên kính lái (HUD)": "Có"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Số túi khí": "11",
+          "Kiểm soát hành trình (Cruise Control)": "Có",
+          "Kiểm soát hành trình thích ứng (Adaptive Cruise Control)": "Không",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Cảnh báo điểm mù": "Có",
+          "Cảm biến lùi": "Có",
+          "Camera lùi": "Có",
+          "Cảnh báo chệch làn đường": "Không",
+          "Hỗ trợ giữ làn": "Không",
+          "Tự động chuyển làn": "Không",
+          "Hỗ trợ phanh tự động giảm thiểu va chạm": "Không",
+          "Cảnh báo phương tiện cắt ngang khi lùi": "Không",
+          "Cảnh báo tài xế buồn ngủ": "Không",
+          "Móc ghế an toàn cho trẻ em Isofix": "Có",
+          "Cảm biến áp suất lốp": "Có",
+          "Cảm biến khoảng cách phía trước": "Không",
+          "Cảnh báo tiền va chạm": "Không",
+          "Hỗ trợ chuyển làn": "Không",
+          "Cảnh báo giao thông khi mở cửa": "Không",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Camera 360": "Có",
+          "Hệ thống đèn pha tự động AHB": "Không"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "VF 9",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Eco (pin CATL) - 1 tỷ 499 triệu",
+      "listed_price": "1 tỷ 499 triệu"
+    },
+    "vehicle_type": "SUV",
+    "origin": "Sản xuất trong nước",
+    "segment": "SUV cỡ E",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Môtơ điện",
+          "Công suất môtơ điện (mã lực)": "402",
+          "Mô-men xoắn môtơ điện (Nm)": "620",
+          "Hộp số": "1 cấp",
+          "Hệ dẫn động": "AWD",
+          "Loại nhiên liệu": "Điện",
+          "Tầm hoạt động (km)": "438",
+          "Thời gian sạc nhanh DC từ 10-80% (phút)": "Dưới 26 phút (10-70%)",
+          "Loại pin": "CATL",
+          "Dung lượng pin (kWh)": "92"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "6 hoặc 7",
+          "Kích thước dài x rộng x cao (mm)": "5.118 x 2.254 x 1.696",
+          "Chiều dài cơ sở (mm)": "3,150",
+          "Khoảng sáng gầm (mm)": "197"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "LED",
+          "Đèn chiếu gần": "LED",
+          "Đèn ban ngày": "LED",
+          "Đèn hậu": "LED",
+          "Đèn pha tự động bật/tắt": "Có",
+          "Đèn pha tự động điều chỉnh góc chiếu": "Có",
+          "Đèn phanh trên cao": "Có",
+          "Sấy gương chiếu hậu": "Có",
+          "Ăng ten vây cá": "Có",
+          "Cốp đóng/mở điện": "Có",
+          "Mở cốp rảnh tay": "Có",
+          "Cửa hít": "Có"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc vô-lăng": "Da nhân tạo",
+          "Điều chỉnh vô-lăng": "Chỉnh cơ 4 hướng",
+          "Sưởi vô-lăng": "Có",
+          "Nhớ vị trí vô-lăng": "Không",
+          "Chất liệu bọc ghế": "Da tổng hợp",
+          "Điều chỉnh ghế lái": "Chỉnh điện 8 hướng",
+          "Nhớ vị trí ghế lái": "Không",
+          "Điều chỉnh ghế phụ": "Chỉnh điện 6 hướng",
+          "Điều hoà": "Tự động 2 vùng",
+          "Màn hình giải trí": "Cảm ứng 15,6 inch",
+          "Hệ thống loa": "13 loa và 1 loa trầm",
+          "Thông gió (làm mát) ghế lái": "Không",
+          "Thông gió (làm mát) ghế phụ": "Không",
+          "Sưởi ấm ghế lái": "Có",
+          "Sưởi ấm ghế phụ": "Có",
+          "Chìa khoá thông minh": "Có",
+          "Cửa gió hàng ghế sau": "Có",
+          "Kết nối Apple CarPlay": "Có",
+          "Kết nối Android Auto": "Có",
+          "Ra lệnh giọng nói": "Có",
+          "Đàm thoại rảnh tay": "Có",
+          "Lọc không khí": "Có",
+          "Kiểm soát chất lượng không khí": "Có",
+          "Trợ lý ảo": "Có",
+          "Phát WiFi": "Có",
+          "Sạc không dây": "Có",
+          "Ổ điện xoay chiều 230V": "Có",
+          "Cửa sổ trời toàn cảnh": "Không"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Trợ lực vô-lăng": "Điện",
+          "Nhiều chế độ lái": "Có",
+          "Phanh tay điện tử": "Có",
+          "Giữ phanh tự động": "Có",
+          "Hỗ trợ đỗ xe chủ động": "Có",
+          "Hỗ trợ đọc biển báo, tín hiệu giao thông": "Có",
+          "Quản lý xe qua app điện thoại": "Có"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Số túi khí": "11",
+          "Kiểm soát hành trình thích ứng (Adaptive Cruise Control)": "Có",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Cảnh báo điểm mù": "Có",
+          "Cảm biến lùi": "Có",
+          "Camera lùi": "Có",
+          "Cảnh báo chệch làn đường": "Có",
+          "Hỗ trợ giữ làn": "Có",
+          "Tự động chuyển làn": "Có",
+          "Hỗ trợ phanh tự động giảm thiểu va chạm": "Có",
+          "Cảnh báo phương tiện cắt ngang khi lùi": "Không",
+          "Cảnh báo tài xế buồn ngủ": "Có",
+          "Móc ghế an toàn cho trẻ em Isofix": "Có",
+          "Cảm biến áp suất lốp": "Có",
+          "Cảm biến khoảng cách phía trước": "Có",
+          "Cảnh báo tiền va chạm": "Có",
+          "Hỗ trợ chuyển làn": "Có",
+          "Cảnh báo giao thông khi mở cửa": "Có",
+          "Nhận diện biển báo giao thông": "Có"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "VF e34",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Tiêu chuẩn - 721 triệu",
+      "listed_price": "721 triệu"
+    },
+    "vehicle_type": "Crossover",
+    "origin": "Sản xuất trong nước",
+    "segment": "C",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Động cơ điện",
+          "Công suất máy xăng/dầu (Mã lực)/vòng tua (vòng/phút)": "147",
+          "Mô-men xoắn máy xăng/dầu (Nm)/vòng tua (vòng/phút)": "242",
+          "Hệ dẫn động": "Cầu trước (FWD)",
+          "Tầm hoạt động (km)": "285 (chuẩn NEDC)",
+          "Thời gian sạc nhanh DC từ 10-80% (phút)": "18 phút đi 180 km",
+          "Loại pin": "Lithium",
+          "Hộp số": "1 cấp"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "5",
+          "Kích thước dài x rộng x cao (mm)": "4.300 x 1.793 x 1.613",
+          "Chiều dài cơ sở (mm)": "2.611",
+          "Khoảng sáng gầm (mm)": "180",
+          "Trọng lượng bản thân (kg)": "1.490",
+          "Trọng lượng toàn tải (kg)": "1.815",
+          "Lốp, la-zăng": "La zăng 18 inch"
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Treo trước": "Độc lập kiểu MacPherson",
+          "Treo sau": "Dầm xoắn",
+          "Phanh trước": "Đĩa",
+          "Phanh sau": "Đĩa"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "LED",
+          "Đèn chiếu gần": "LED",
+          "Đèn ban ngày": "LED",
+          "Đèn pha tự động bật/tắt": "Có",
+          "Đèn pha tự động xa/gần": "Không",
+          "Đèn pha tự động điều chỉnh góc chiếu": "Không",
+          "Đèn hậu": "LED",
+          "Đèn phanh trên cao": "Có",
+          "Gương chiếu hậu": "Chỉnh điện, gập điện, báo rẽ",
+          "Sấy gương chiếu hậu": "Không",
+          "Gạt mưa tự động": "Có",
+          "Ăng ten vây cá": "Có",
+          "Cốp đóng/mở điện": "Có",
+          "Mở cốp rảnh tay": "Không"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc ghế": "Giả da (Vinyl)",
+          "Điều chỉnh ghế lái": "Không (Chỉnh tay 6 hướng)",
+          "Điều chỉnh ghế phụ": "Không (Chỉnh tay 6 hướng)",
+          "Bảng đồng hồ tài xế": "Digital 7 inch",
+          "Nút bấm tích hợp trên vô-lăng": "Có",
+          "Chất liệu bọc vô-lăng": "Da",
+          "Hàng ghế thứ hai": "60/40",
+          "Chìa khoá thông minh": "Có",
+          "Khởi động nút bấm": "Có",
+          "Điều hoà": "Tự động",
+          "Cửa gió hàng ghế sau": "Có",
+          "Cửa kính một chạm": "Có, cả hàng trước và sau",
+          "Gương chiếu hậu trong xe chống chói tự động": "Có",
+          "Tựa tay hàng ghế trước": "Có",
+          "Tựa tay hàng ghế sau": "Không",
+          "Màn hình giải trí": "Màn hình cảm ứng 10 inch",
+          "Kết nối Apple CarPlay": "Có",
+          "Kết nối Android Auto": "Có",
+          "Ra lệnh giọng nói": "Có",
+          "Đàm thoại rảnh tay": "Có",
+          "Hệ thống loa": "6",
+          "Phát WiFi": "Có",
+          "Kết nối AUX": "Không",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Sạc không dây": "Không",
+          "Lọc không khí": "Có",
+          "Điều hướng (bản đồ)": "Có"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Trợ lực vô-lăng": "Trợ lực lái điện EPS",
+          "Nhiều chế độ lái": "Có"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Kiểm soát hành trình (Cruise Control)": "Có",
+          "Số túi khí": "6",
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Hỗ trợ đổ đèo": "Không",
+          "Cảnh báo điểm mù": "Có",
+          "Cảm biến lùi": "Có",
+          "Camera lùi": "Có",
+          "Camera 360": "Có",
+          "Camera quan sát làn đường (LaneWatch)": "Không",
+          "Cảnh báo chệch làn đường": "Có",
+          "Hỗ trợ giữ làn": "Không",
+          "Hỗ trợ phanh tự động giảm thiểu va chạm": "Không",
+          "Cảnh báo phương tiện cắt ngang khi lùi": "Có",
+          "Cảnh báo tài xế buồn ngủ": "Không",
+          "Móc ghế an toàn cho trẻ em Isofix": "Có",
+          "Cảm biến áp suất lốp": "Có",
+          "Cảm biến khoảng cách phía trước": "Có"
+        }
+      }
+    ]
+  },
+  {
+    "car_model": "VF MPV 7",
+    "url_source": "https://vnexpress.net/oto-xe-may/v-car/hang-xe/vinfast-33",
+    "price": {
+      "version_display": "Tiêu chuẩn (gồm pin) - 819 triệu",
+      "listed_price": "819 triệu"
+    },
+    "vehicle_type": "MPV",
+    "origin": "Sản xuất trong nước",
+    "segment": "",
+    "specifications": [
+      {
+        "category": "Động cơ/hộp số",
+        "attributes": {
+          "Kiểu động cơ": "Môtơ điện đơn",
+          "Hệ dẫn động": "FWD",
+          "Công suất môtơ điện (mã lực)": "201",
+          "Mô-men xoắn môtơ điện (Nm)": "280",
+          "Loại pin": "LFP",
+          "Dung lượng pin (kWh)": "60,13",
+          "Tầm hoạt động (km)": "450",
+          "Bộ sạc tiêu chuẩn theo xe": "7,4 kW",
+          "Thời gian sạc nhanh DC 10-70% (phút)": "30",
+          "Công suất sạc nhanh DC tối đa": "80 kW"
+        }
+      },
+      {
+        "category": "Kích thước/trọng lượng",
+        "attributes": {
+          "Số chỗ": "7",
+          "Kích thước dài x rộng x cao (mm)": "4.740 x 1.872 x 1.734",
+          "Chiều dài cơ sở (mm)": "2.840",
+          "Khoảng sáng gầm (mm)": "185",
+          "Lốp, la-zăng": "19 inch"
+        }
+      },
+      {
+        "category": "Hệ thống treo/phanh",
+        "attributes": {
+          "Treo trước": "MacPherson",
+          "Treo sau": "Đa liên kết",
+          "Phanh trước": "Đĩa thông gió",
+          "Phanh sau": "Đĩa"
+        }
+      },
+      {
+        "category": "Ngoại thất",
+        "attributes": {
+          "Đèn chiếu xa": "LED",
+          "Đèn chiếu gần": "LED",
+          "Đèn ban ngày": "LED",
+          "Đèn pha tự động bật/tắt": "Không",
+          "Đèn hậu": "LED",
+          "Đèn phanh trên cao": "Có",
+          "Gương chiếu hậu": "Chỉnh điện",
+          "Gạt mưa tự động": "Không",
+          "Cốp đóng/mở điện": "Không"
+        }
+      },
+      {
+        "category": "Nội thất",
+        "attributes": {
+          "Chất liệu bọc ghế": "Da tổng hợp",
+          "Điều chỉnh ghế lái": "Cơ",
+          "Điều chỉnh ghế phụ": "Cơ",
+          "Bảng đồng hồ tài xế": "Không",
+          "Nút bấm tích hợp trên vô-lăng": "Có",
+          "Chất liệu bọc vô-lăng": "Nhựa tổng hợp",
+          "Hàng ghế thứ hai": "",
+          "Hàng ghế thứ ba": "",
+          "Điều hoà": "Tự động 1 vùng",
+          "Cửa gió hàng ghế sau": "Có",
+          "Màn hình giải trí": "Cảm ứng 10,1 inch",
+          "Hệ thống loa": "4 loa",
+          "Phát WiFi": "Có",
+          "Kết nối USB": "Có",
+          "Kết nối Bluetooth": "Có",
+          "Radio AM/FM": "Có",
+          "Gương hậu trong xe": "Chế độ ngày/đêm"
+        }
+      },
+      {
+        "category": "Hỗ trợ vận hành",
+        "attributes": {
+          "Chế độ lái": "Eco/Normal/Sport",
+          "Phanh tay điện tử": "Có",
+          "Giữ phanh tự động": "Có"
+        }
+      },
+      {
+        "category": "Công nghệ an toàn",
+        "attributes": {
+          "Chống bó cứng phanh (ABS)": "Có",
+          "Hỗ trợ lực phanh khẩn cấp (BA)": "Có",
+          "Phân phối lực phanh điện tử (EBD)": "Có",
+          "Cân bằng điện tử (VSC, ESP)": "Có",
+          "Kiểm soát lực kéo (chống trượt, kiểm soát độ bám đường TCS)": "Có",
+          "Hỗ trợ khởi hành ngang dốc": "Có",
+          "Chức năng chống lật (ROM)": "Có",
+          "Camera lùi": "Có",
+          "Kiểm soát hành trình (Cruise Control)": "Có",
+          "Số túi khí": "",
+          "Cảm biến lùi": ""
+        }
+      }
+    ]
+  }
+]
