@@ -1,0 +1,113 @@
+/* ── VinFast AI Advisor – Custom Theme ── */
+
+/* Brand color palette */
+:root {
+  --vinfast-green: #00a651;
+  --vinfast-green-dark: #008c44;
+  --vinfast-green-light: #e6f7ed;
+  --vinfast-accent: #00c853;
+  --bg-dark: #0f1419;
+  --bg-card: #1a1f2e;
+  --text-primary: #e8eaed;
+  --text-muted: #9aa0a6;
+}
+
+/* ── Chat header / assistant name ── */
+.MuiAppBar-root,
+header {
+  background: linear-gradient(135deg, var(--vinfast-green-dark), var(--vinfast-green)) !important;
+}
+
+/* ── Starter buttons ── */
+button[class*="starter"] {
+  border: 1.5px solid var(--vinfast-green) !important;
+  border-radius: 12px !important;
+  transition: all 0.2s ease !important;
+}
+button[class*="starter"]:hover {
+  background: var(--vinfast-green-light) !important;
+  border-color: var(--vinfast-green-dark) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 166, 81, 0.25);
+}
+
+/* ── Chat bubbles ── */
+.message-content {
+  line-height: 1.7 !important;
+  letter-spacing: 0.01em;
+}
+
+/* ── Action/feedback buttons ── */
+button[id*="feedback"],
+button[class*="action"] {
+  border-radius: 8px !important;
+  font-weight: 500 !important;
+  transition: all 0.15s ease !important;
+}
+button[id*="feedback"]:hover,
+button[class*="action"]:hover {
+  transform: scale(1.05);
+}
+
+/* ── Tool call steps ── */
+.step {
+  border-left: 3px solid var(--vinfast-green) !important;
+  border-radius: 4px !important;
+}
+
+/* ── Scrollbar subtle style ── */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 166, 81, 0.3);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 166, 81, 0.5);
+}
+
+/* ── Welcome markdown page ── */
+.markdown-body h1 {
+  background: linear-gradient(135deg, var(--vinfast-green), var(--vinfast-accent));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.markdown-body table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border-radius: 8px !important;
+  overflow: hidden;
+}
+.markdown-body th {
+  background: var(--vinfast-green) !important;
+  color: white !important;
+  padding: 10px 14px !important;
+}
+.markdown-body td {
+  padding: 10px 14px !important;
+}
+
+/* ── Message input composer ── */
+textarea {
+  border-radius: 12px !important;
+}
+
+/* ── Smooth entrance for messages ── */
+@keyframes fadeSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.message-row {
+  animation: fadeSlideIn 0.3s ease-out;
+}

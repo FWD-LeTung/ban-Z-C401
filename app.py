@@ -77,7 +77,17 @@ async def on_chat_start():
     """Khởi tạo session mới với system prompt."""
     cl.user_session.set("messages", [SYSTEM_PROMPT])
     await cl.Message(
-        content="Xin chào! 👋 Tôi là trợ lý AI của VinFast.\n\nTôi có thể giúp bạn:\n- 🚗 Tư vấn chọn xe theo ngân sách\n- 📊 Tra cứu thông số kỹ thuật\n- 📍 Tìm showroom gần bạn\n- 💬 Tổng hợp đánh giá từ người dùng thực tế\n\nHãy hỏi tôi bất cứ điều gì về xe VinFast!",
+        content=(
+            "## Xin chào! 👋\n\n"
+            "Tôi là **trợ lý AI của VinFast** — giúp bạn tìm xe phù hợp nhanh chóng.\n\n"
+            "| | Khả năng |\n"
+            "|---|---|\n"
+            "| 🚗 | Tư vấn chọn xe theo ngân sách |\n"
+            "| 📊 | Tra cứu thông số kỹ thuật chi tiết |\n"
+            "| 📍 | Tìm showroom / đại lý gần bạn |\n"
+            "| 💬 | Tổng hợp đánh giá từ YouTube & Reddit |\n\n"
+            "👇 **Chọn gợi ý bên dưới** hoặc gõ câu hỏi bất kỳ!"
+        ),
     ).send()
 
 
